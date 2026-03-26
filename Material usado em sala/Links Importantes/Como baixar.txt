@@ -1,0 +1,13 @@
+Quer baixar o Power BI no seu computador?
+
+(Acesse esse link o link abaixo)
+
+Escolha a linguagem e o tipo de sistema operacional (32 ou 64 bits) faça o download e instale!
+
+Dá pra usar o Power BI no Linux ou no MacOs?
+
+Depende, a versão web é disponível para qualquer sistema operacional, você só precisa de um navegador. Porém, a versão Desktop só é mais restrita, dificilmente você irá encontrar uma versão para instalação nativa no Linux. 
+
+Existem alternativas pouco recomendáveis por questão de performance, por exemplo, fazer o uso de emuladores ou então instalação de máquinas virtuais. Essas opções permitem que você instale apps ou então simule a execução de um outro sistema operacional completo dentro do seu computador, mas isso pode ser bem custoso e deixar sua máquina lenta.
+
+https://www.microsoft.com/pt-BR/download/details.aspx?id=58494
