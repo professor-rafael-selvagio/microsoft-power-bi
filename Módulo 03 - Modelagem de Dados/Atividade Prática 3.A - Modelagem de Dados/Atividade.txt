@@ -1,0 +1,3 @@
+Leia atentamente o arquivo PDF "Atividade Prática 03 - modelagem de dados novo.pdf"
+
+Bases de dados: Lojinha.xlsx (Excel) e influencer (Web)

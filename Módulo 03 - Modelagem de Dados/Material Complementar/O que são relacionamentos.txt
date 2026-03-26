@@ -1,0 +1,13 @@
+No Power BI, os relacionamentos referem-se à conexão entre duas tabelas com base em colunas comuns, permitindo a análise e a combinação de dados de diferentes fontes relacionadas. Os relacionamentos são fundamentais para criar relatórios e painéis interativos no Power BI.
+Quando você importa ou carrega várias tabelas em um modelo de dados do Power BI, geralmente há uma necessidade de combinar informações de diferentes tabelas em uma única visualização ou análise. Os relacionamentos são usados para estabelecer a ligação entre essas tabelas e permitir que você explore e analise os dados de maneira integrada.
+Os relacionamentos são criados com base em colunas comuns entre as tabelas. Por exemplo, se você tem uma tabela de vendas com uma coluna "ID do Cliente" e uma tabela separada de clientes com uma coluna "ID do Cliente" correspondente, você pode estabelecer um relacionamento entre as duas tabelas usando essa coluna comum.
+Ao criar relacionamentos, você define a cardinalidade, que especifica a natureza da relação entre as tabelas. As opções de cardinalidade são:
+Um para um (1:1): cada valor em uma tabela corresponde a apenas um valor na outra tabela.
+Um para muitos (1:N): cada valor em uma tabela pode corresponder a vários valores na outra tabela.
+Muitos para muitos (N:N): cada valor em uma tabela pode corresponder a vários valores na outra tabela, e vice-versa.
+Uma vez estabelecidos os relacionamentos, o Power BI pode realizar cálculos e agregações em várias tabelas simultaneamente. Isso permite que você crie visualizações, gráficos e relatórios interativos, onde as alterações em uma tabela automaticamente propagam-se para as outras tabelas relacionadas.
+Os relacionamentos no Power BI simplificam a análise de dados complexos, permitem a criação de medidas e cálculos mais precisos e fornecem uma visão unificada dos dados, facilitando a compreensão das informações e a tomada de decisões informadas.
+
+https://www.youtube.com/watch?v=EAjQhXbXfZY
+
+https://www.youtube.com/watch?v=uz1QOTQaCcI

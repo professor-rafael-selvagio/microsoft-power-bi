@@ -1,0 +1,20 @@
+O que é o Power Pivot
+
+O Power Pivot é uma tecnologia de modelagem de dados e análise de negócios desenvolvida pela Microsoft. Ele faz parte do pacote de ferramentas do Microsoft Excel e é projetado para ajudar os usuários a importar, integrar e analisar grandes conjuntos de dados de diferentes fontes. O Power Pivot permite que os usuários criem modelos de dados complexos e relações entre várias tabelas de dados, sem a necessidade de escrever fórmulas ou consultas SQL. Ele utiliza uma linguagem de fórmula chamada Data Analysis Expressions (DAX) para criar medidas e cálculos personalizados.
+
+Uma das principais vantagens do Power Pivot é sua capacidade de processar grandes volumes de dados com desempenho rápido. Ele aproveita a tecnologia de compressão de dados e otimização de consultas para lidar com grandes conjuntos de dados de forma eficiente. Além disso, o Power Pivot também oferece recursos avançados de análise, como segmentação de dados, criação de hierarquias, criação de tabelas dinâmicas e criação de gráficos interativos. Esses recursos permitem que os usuários explorem e visualizem seus dados de maneiras poderosas e intuitivas.
+
+O Power Pivot é amplamente utilizado em ambientes empresariais para análise de dados, relatórios e tomada de decisões. Ele fornece uma maneira flexível e poderosa de trabalhar com dados, especialmente quando os conjuntos de dados são grandes e complexos.
+
+O que é o Power View
+
+O Power View também faz parte do pacote de ferramentas do Microsoft Excel e é projetada para permitir que os usuários criem relatórios e painéis de controle interativos com base em seus dados. Com o Power View, os usuários podem explorar e apresentar seus dados de maneira visualmente atraente e interativa. Ele suporta uma variedade de visualizações, como gráficos, tabelas, mapas e segmentações de dados. Os usuários podem arrastar e soltar campos e medidas para criar visualizações dinâmicas e filtrar os dados com base em diferentes critérios.
+
+Uma das principais características do Power View é a capacidade de criar visualizações conectadas, onde os usuários podem clicar em um elemento, como uma barra de gráfico, para filtrar automaticamente outras visualizações relacionadas. Isso permite uma exploração de dados mais profunda e interativa. O Power View também suporta animações e transições suaves entre as visualizações, o que ajuda a contar uma história ou apresentar informações de maneira mais envolvente. Os relatórios e painéis de controle criados com o Power View podem ser compartilhados e publicados em uma variedade de formatos, como arquivos do Excel, SharePoint ou em um ambiente online do Power BI.
+
+
+Em resumo, o Power View é uma ferramenta poderosa para a criação de visualizações interativas e envolventes de dados, permitindo que os usuários explorem e apresentem informações de maneira eficaz e intuitiva.
+
+https://www.youtube.com/watch?v=j0aiX8p3PHQ
+
+https://www.youtube.com/watch?v=-dFyhGi6kQw

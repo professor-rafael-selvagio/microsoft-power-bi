@@ -1,0 +1,197 @@
+[
+  {
+    "codigoInfluencer": "INF001",
+    "nomeInfluencer": "Neymar Jr.",
+    "idConjunto": 1,
+    "postagens": 320,
+    "visualizacoes": 950,
+    "vendas": 40
+  },
+  {
+    "codigoInfluencer": "INF002",
+    "nomeInfluencer": "Virgínia Fonseca",
+    "idConjunto": 1,
+    "postagens": 410,
+    "visualizacoes": 870,
+    "vendas": 60
+  },
+  {
+    "codigoInfluencer": "INF003",
+    "nomeInfluencer": "Zé Felipe",
+    "idConjunto": 1,
+    "postagens": 280,
+    "visualizacoes": 740,
+    "vendas": 30
+  },
+  {
+    "codigoInfluencer": "INF004",
+    "nomeInfluencer": "Lucas Rangel",
+    "idConjunto": 1,
+    "postagens": 500,
+    "visualizacoes": 690,
+    "vendas": 22
+  },
+  {
+    "codigoInfluencer": "INF005",
+    "nomeInfluencer": "Hytalo Santos",
+    "idConjunto": 1,
+    "postagens": 250,
+    "visualizacoes": 520,
+    "vendas": 18
+  },
+  {
+    "codigoInfluencer": "INF006",
+    "nomeInfluencer": "Gkay",
+    "idConjunto": 1,
+    "postagens": 430,
+    "visualizacoes": 600,
+    "vendas": 28
+  },
+  {
+    "codigoInfluencer": "INF007",
+    "nomeInfluencer": "Whindersson Nunes",
+    "idConjunto": 1,
+    "postagens": 310,
+    "visualizacoes": 910,
+    "vendas": 25
+  },
+  {
+    "codigoInfluencer": "INF008",
+    "nomeInfluencer": "Bianca Andrade (Boca Rosa)",
+    "idConjunto": 1,
+    "postagens": 450,
+    "visualizacoes": 820,
+    "vendas": 70
+  },
+  {
+    "codigoInfluencer": "INF009",
+    "nomeInfluencer": "Camila Coelho",
+    "idConjunto": 1,
+    "postagens": 400,
+    "visualizacoes": 760,
+    "vendas": 65
+  },
+  {
+    "codigoInfluencer": "INF010",
+    "nomeInfluencer": "Juliette Freire",
+    "idConjunto": 1,
+    "postagens": 380,
+    "visualizacoes": 880,
+    "vendas": 55
+  },
+  {
+    "codigoInfluencer": "INF011",
+    "nomeInfluencer": "Anitta",
+    "idConjunto": 1,
+    "postagens": 300,
+    "visualizacoes": 940,
+    "vendas": 62
+  },
+  {
+    "codigoInfluencer": "INF012",
+    "nomeInfluencer": "Tatá Estaniecki Cocielo",
+    "idConjunto": 1,
+    "postagens": 330,
+    "visualizacoes": 550,
+    "vendas": 24
+  },
+  {
+    "codigoInfluencer": "INF013",
+    "nomeInfluencer": "Bruna Gomes",
+    "idConjunto": 1,
+    "postagens": 290,
+    "visualizacoes": 530,
+    "vendas": 26
+  },
+  {
+    "codigoInfluencer": "INF014",
+    "nomeInfluencer": "Marina Ruy Barbosa",
+    "idConjunto": 1,
+    "postagens": 370,
+    "visualizacoes": 760,
+    "vendas": 50
+  },
+  {
+    "codigoInfluencer": "INF015",
+    "nomeInfluencer": "Luísa Sonza",
+    "idConjunto": 1,
+    "postagens": 340,
+    "visualizacoes": 890,
+    "vendas": 48
+  },
+
+  {
+    "codigoInfluencer": "INF016",
+    "nomeInfluencer": "Carlinhos Maia",
+    "idConjunto": 2,
+    "postagens": 420,
+    "visualizacoes": 910,
+    "vendas": 58
+  },
+  {
+    "codigoInfluencer": "INF017",
+    "nomeInfluencer": "Maíra Cardi",
+    "idConjunto": 2,
+    "postagens": 310,
+    "visualizacoes": 650,
+    "vendas": 35
+  },
+  {
+    "codigoInfluencer": "INF018",
+    "nomeInfluencer": "JP Mota",
+    "idConjunto": 2,
+    "postagens": 270,
+    "visualizacoes": 580,
+    "vendas": 20
+  },
+
+  {
+    "codigoInfluencer": "INF019",
+    "nomeInfluencer": "Gabriela Pugliesi",
+    "idConjunto": 3,
+    "postagens": 360,
+    "visualizacoes": 700,
+    "vendas": 33
+  },
+  {
+    "codigoInfluencer": "INF020",
+    "nomeInfluencer": "Felipe Neto",
+    "idConjunto": 3,
+    "postagens": 500,
+    "visualizacoes": 980,
+    "vendas": 45
+  },
+  {
+    "codigoInfluencer": "INF021",
+    "nomeInfluencer": "Thaynara OG",
+    "idConjunto": 3,
+    "postagens": 390,
+    "visualizacoes": 820,
+    "vendas": 38
+  },
+
+  {
+    "codigoInfluencer": "INF022",
+    "nomeInfluencer": "Paulo Muzy",
+    "idConjunto": 4,
+    "postagens": 260,
+    "visualizacoes": 540,
+    "vendas": 29
+  },
+  {
+    "codigoInfluencer": "INF023",
+    "nomeInfluencer": "Lore Improta",
+    "idConjunto": 4,
+    "postagens": 340,
+    "visualizacoes": 690,
+    "vendas": 36
+  },
+  {
+    "codigoInfluencer": "INF024",
+    "nomeInfluencer": "Rafa Kalimann",
+    "idConjunto": 4,
+    "postagens": 380,
+    "visualizacoes": 770,
+    "vendas": 42
+  }
+]

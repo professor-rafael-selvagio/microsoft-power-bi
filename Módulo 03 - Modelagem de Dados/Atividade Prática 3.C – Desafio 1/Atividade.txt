@@ -1,0 +1,3 @@
+Agora é hora do nosso desafio de analise de dados. Faça download do PDF "Aula 02 - desafio.pdf" e também do dataset marketing_campaing.csv. 
+
+Leia atentamente as instruções e comece!

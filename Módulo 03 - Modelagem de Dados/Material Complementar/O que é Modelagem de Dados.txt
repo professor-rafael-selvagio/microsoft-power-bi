@@ -1,0 +1,14 @@
+A modelagem de dados é o processo de organizar e estruturar os dados de uma forma que seja adequada para análise, relatórios e tomada de decisões. Envolve a criação de um modelo que representa as relações entre os diferentes elementos de dados e como eles se relacionam entre si.
+
+A modelagem de dados é essencial para garantir que os dados sejam armazenados, gerenciados e acessados de maneira eficiente e precisa. Ela permite que os usuários entendam e explorem os dados de forma significativa, facilitando a descoberta de insights e a tomada de decisões informadas.
+
+Existem várias etapas e considerações envolvidas na modelagem de dados, incluindo:
+Identificar os requisitos: Compreender as necessidades dos usuários e as perguntas que eles desejam responder com os dados. Isso envolve determinar quais informações são importantes, quais relacionamentos são relevantes e quais cálculos e medidas são necessários.
+Definir as entidades e relacionamentos: Identificar as entidades (tabelas) que compõem o modelo de dados e definir os relacionamentos entre elas. Isso envolve entender a estrutura dos dados e como eles se conectam uns aos outros.
+Normalização: Aplicar princípios de normalização para eliminar redundâncias e inconsistências nos dados. A normalização ajuda a reduzir a redundância de informações e melhora a integridade dos dados.
+Criação de colunas calculadas e medidas: Criar colunas calculadas e medidas usando linguagens como DAX (Data Analysis Expressions) para realizar cálculos e agregações nos dados. Isso permite criar métricas personalizadas e calcular indicadores-chave de desempenho.
+Otimização de desempenho: Considerar o desempenho ao projetar o modelo de dados, garantindo que consultas e cálculos possam ser executados de maneira eficiente. Isso pode envolver o uso de índices, particionamento de dados e outras técnicas de otimização.
+
+A modelagem de dados no Power BI (e em outras ferramentas de análise de dados) é uma etapa crítica para garantir que os dados sejam representados de maneira significativa e possam ser facilmente explorados e analisados. Uma modelagem de dados bem projetada facilita a criação de relatórios interativos, painéis e visualizações que fornecem insights valiosos aos usuários.
+
+https://www.youtube.com/watch?v=hK0iKKhJ16I

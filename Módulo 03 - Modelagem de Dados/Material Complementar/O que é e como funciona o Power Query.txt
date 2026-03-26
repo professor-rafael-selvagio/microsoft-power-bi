@@ -1,0 +1,13 @@
+O Power BI possui uma ferramenta chamada "Power Query" que auxilia na modelagem de dados. O Power Query é uma ferramenta de preparação de dados que permite conectar, transformar e combinar dados de várias fontes diferentes antes de carregá-los no Power BI.
+Com o Power Query, você pode realizar diversas tarefas de modelagem de dados, como:
+Conectar-se a diferentes fontes de dados, como bancos de dados, arquivos CSV, Excel, entre outros.
+Realizar transformações nos dados, como filtrar linhas, remover colunas desnecessárias, alterar tipos de dados, renomear colunas, criar colunas calculadas, aplicar regras de limpeza e muito mais.
+Combinar dados de várias fontes em uma única tabela ou modelo.
+Criar consultas personalizadas usando a linguagem M para realizar cálculos avançados ou manipulações complexas nos dados.
+O Power Query permite uma preparação de dados mais eficiente e simplificada, ajudando a melhorar a qualidade e a integridade dos dados antes de serem usados para análise no Power BI. Com ele, você pode criar fluxos de trabalho automatizados para transformar e limpar dados de forma consistente, economizando tempo e esforço na modelagem de dados.
+
+Além do Power Query, o Power BI também oferece outras ferramentas para auxiliar na modelagem de dados, como a capacidade de criar relacionamentos entre tabelas, definir hierarquias, criar colunas calculadas usando a linguagem DAX e muito mais. Essas ferramentas permitem estruturar e organizar os dados de forma adequada para a criação de relatórios e análises no Power BI.
+
+https://www.youtube.com/watch?v=5OPbdLAe4DU
+
+https://www.youtube.com/watch?v=P9I42lZ19vU
