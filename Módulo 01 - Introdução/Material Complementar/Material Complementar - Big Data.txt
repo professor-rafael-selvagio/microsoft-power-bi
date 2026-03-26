@@ -1,0 +1,13 @@
+Big Data refere-se a conjuntos de dados extremamente grandes e complexos que são difíceis de serem processados por métodos tradicionais de processamento de dados. Esses conjuntos de dados são caracterizados por três características principais, conhecidas como os "3Vs":
+Volume: O Big Data envolve um volume massivo de dados, que pode variar de terabytes a petabytes e até mesmo exabytes de tamanho. Esses conjuntos de dados são gerados a partir de várias fontes, como redes sociais, sensores, transações comerciais, dispositivos móveis e muito mais.
+Velocidade: O Big Data é gerado em um ritmo extremamente rápido. Os dados podem ser gerados em tempo real ou em alta velocidade, exigindo que as organizações processem e analisem esses dados rapidamente para obter insights e tomar decisões em tempo hábil.
+Variedade: O Big Data é composto por uma variedade diversificada de tipos de dados. Além dos dados estruturados tradicionais (por exemplo, dados em tabelas de bancos de dados), ele também inclui dados não estruturados, como texto, áudio, vídeo, dados de mídia social e muito mais. Essa variedade de formatos e fontes de dados torna o processamento e a análise mais desafiadores.
+Além dos 3Vs, o Big Data também pode envolver a característica adicional do "Valor" (Value). O valor do Big Data reside na capacidade de extrair informações úteis e insights significativos desses grandes conjuntos de dados, permitindo que as organizações tomem decisões informadas e estratégicas.
+
+Para lidar com o Big Data, são necessárias técnicas e tecnologias especiais, como armazenamento distribuído, processamento paralelo, computação em nuvem, algoritmos avançados de análise de dados, aprendizado de máquina e inteligência artificial.
+
+O Big Data tem uma ampla gama de aplicações em várias áreas, como marketing, ciência de dados, medicina, finanças, transportes, manufatura e muito mais. Ele oferece oportunidades significativas para entender melhor os padrões, tendências e comportamentos, impulsionar a inovação e melhorar o desempenho e a eficiência em diversos setores.
+
+youtube.com/watch?v=IpfE8B9H9cI&authuser=0
+
+https://www.youtube.com/watch?v=VjgtiyTGzHk

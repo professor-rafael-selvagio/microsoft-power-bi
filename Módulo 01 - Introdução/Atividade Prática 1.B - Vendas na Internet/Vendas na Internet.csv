@@ -1,0 +1,294 @@
+idTransacao,dataDaTransacao,Produto,Categoria,Cliente,Cidade,Estado,Pais,Valor,Quantidade,MetodoDePagamento
+
+1,2023-01-15,Smartphone Galaxy S21,Eletrônicos,Maria Silva,São Paulo,SP,Brasil,3999.99,1,Cartão de Crédito
+
+2,2023-01-16,Tênis Nike Air Max,Calçados,João Santos,Rio de Janeiro,RJ,Brasil,599.90,2,Boleto
+
+3,2023-01-17,Livro Clean Code,Livros,Pedro Oliveira,Curitiba,PR,Brasil,129.90,1,PayPal
+
+4,2023-01-18,Monitor Dell 27",Eletrônicos,Ana Costa,Porto Alegre,RS,Brasil,1899.00,1,Cartão de Crédito
+
+5,2023-01-19,Camiseta Adidas,Vestuário,Carlos Souza,Belo Horizonte,MG,Brasil,89.90,3,Pix
+
+6,2023-01-20,iPad Pro,Eletrônicos,Julia Lima,Brasília,DF,Brasil,5999.00,1,Cartão de Crédito
+
+7,2023-01-21,Mochila Samsonite,Acessórios,Fernando Pereira,Salvador,BA,Brasil,299.90,1,Boleto
+
+8,2023-01-22,Fone JBL,Eletrônicos,Mariana Santos,Recife,PE,Brasil,399.90,2,PayPal
+
+9,2023-01-23,Notebook Lenovo,Eletrônicos,Ricardo Ferreira,Fortaleza,CE,Brasil,4299.00,1,Cartão de Crédito
+
+10,2023-01-24,Calça Jeans Levi's,Vestuário,Amanda Silva,Manaus,AM,Brasil,259.90,2,Pix
+
+11,2023-01-25,Mouse Gamer Razer,Eletrônicos,Bruno Costa,Vitória,ES,Brasil,299.90,1,Cartão de Crédito
+
+12,2023-01-26,Vestido Zara,Vestuário,Carolina Mendes,Florianópolis,SC,Brasil,199.90,1,Boleto
+
+13,2023-01-27,Xbox Series X,Eletrônicos,Diego Alves,Goiânia,GO,Brasil,4499.00,1,Cartão de Crédito
+
+14,2023-01-28,Perfume Channel,Cosméticos,Elena Santos,Belém,PA,Brasil,599.90,1,PayPal
+
+15,2023-01-29,Relógio Apple Watch,Eletrônicos,Fábio Lima,São Luís,MA,Brasil,2999.00,1,Cartão de Crédito
+
+16,2023-01-30,Tênis Adidas,Calçados,Gabriel Oliveira,Campo Grande,MS,Brasil,459.90,1,Pix
+
+17,2023-01-31,Livro Harry Potter,Livros,Helena Costa,João Pessoa,PB,Brasil,79.90,3,Boleto
+
+18,2023-02-01,Camera Canon,Eletrônicos,Igor Silva,Teresina,PI,Brasil,3299.00,1,Cartão de Crédito
+
+19,2023-02-02,Bolsa Michael Kors,Acessórios,Juliana Pereira,Natal,RN,Brasil,1299.90,1,PayPal
+
+20,2023-02-03,Smart TV Samsung,Eletrônicos,Karina Santos,Aracaju,SE,Brasil,2799.00,1,Cartão de Crédito
+
+21,2023-02-04,Tablet iPad Air,Eletrônicos,Marcos Santos,Maceió,AL,Brasil,3999.00,1,Cartão de Crédito
+
+22,2023-02-05,Calça Jeans Wrangler,Vestuário,Rodrigo Oliveira,Macapá,AP,Brasil,199.90,2,Pix
+
+23,2023-02-06,Livro O Alquimista,Livros,Luana Silva,Rio Branco,AC,Brasil,49.90,1,Boleto
+
+24,2023-02-07,Headphone Sony,Eletrônicos,Vinicius Costa,Boa Vista,RR,Brasil,299.90,1,Cartão de Crédito
+
+25,2023-02-08,Bolsa de Viagem,Acessórios,Beatriz Mendes,Palmas,TO,Brasil,149.90,1,PayPal
+
+26,2023-02-09,Xbox Controller,Eletrônicos,Leonardo Alves,Porto Velho,RO,Brasil,199.90,1,Cartão de Crédito
+
+27,2023-02-10,Livro A Garota no Trem,Livros,Gabriela Silva,Manaus,AM,Brasil,69.90,2,Boleto
+
+28,2023-02-11,Relógio Fossil,Acessórios,João Pedro,São Paulo,SP,Brasil,399.90,1,Pix
+
+29,2023-02-12,Camiseta Nike,Vestuário,Luisa Oliveira,Rio de Janeiro,RJ,Brasil,79.90,3,Cartão de Crédito
+
+30,2023-02-13,Notebook Asus,Eletrônicos,André Silva,Belo Horizonte,MG,Brasil,3499.00,1,Cartão de Crédito
+
+31,2023-02-14,Tênis Converse,Calçados,Maria Eduarda,Brasília,DF,Brasil,299.90,1,Boleto
+
+32,2023-02-15,Livro O Código da Vinci,Livros,Pedro Henrique,Curitiba,PR,Brasil,99.90,1,PayPal
+
+33,2023-02-16,Smartwatch Huawei,Eletrônicos,Ana Clara,Porto Alegre,RS,Brasil,1999.00,1,Cartão de Crédito
+
+34,2023-02-17,Bolsa de Ginástica,Acessórios,Bruno Oliveira,Recife,PE,Brasil,89.90,2,Pix
+
+35,2023-02-18,Monitor LG,Eletrônicos,Carolina Costa,Salvador,BA,Brasil,1599.00,1,Cartão de Crédito
+
+36,2023-02-19,Livro A Sutil Arte de Ligar o Fogo,Livros,João Gabriel,Fortaleza,CE,Brasil,59.90,3,Boleto
+
+37,2023-02-20,Xbox Game Pass,Eletrônicos,Luana Oliveira,Goiânia,GO,Brasil,99.90,1,Cartão de Crédito
+
+38,2023-02-21,Relógio Skagen,Acessórios,Beatriz Silva,Vitória,ES,Brasil,299.90,1,PayPal
+
+39,2023-02-22,Camiseta Adidas,Vestuário,Marcelo Santos,Florianópolis,SC,Brasil,69.90,2,Cartão de Crédito
+
+40,2023-02-23,Notebook Dell,Eletrônicos,Rafael Alves,Manaus,AM,Brasil,3799.00,1,Cartão de Crédito
+
+41,2023-02-24,Tênis New Balance,Calçados,Julia Mendes,Belo Horizonte,MG,Brasil,249.90,1,Boleto
+
+42,2023-02-25,Livro O Poder do Agora,Livros,Ana Laura,Rio de Janeiro,RJ,Brasil,49.90,1,PayPal
+
+43,2023-02-26,Smart TV LG,Eletrônicos,João Lucas,São Paulo,SP,Brasil,2999.00,1,Cartão de Crédito
+
+44,2023-02-27,Bolsa de Mão,Acessórios,Carolina Oliveira,Brasília,DF,Brasil,199.90,2,Pix
+
+45,2023-02-28,Livro A Corrupção,Livros,Pedro Lucas,Curitiba,PR,Brasil,69.90,3,Boleto
+
+46,2023-03-01,Headphone HyperX,Eletrônicos,André Oliveira,Porto Alegre,RS,Brasil,299.90,1,Cartão de Crédito
+
+47,2023-03-02,Camiseta Puma,Vestuário,Maria Clara,Recife,PE,Brasil,79.90,1,Boleto
+
+48,2023-03-03,Notebook HP,Eletrônicos,Bruno Silva,Salvador,BA,Brasil,3299.00,1,Cartão de Crédito
+
+49,2023-03-04,Tênis Vans,Calçados,João Pedro,Fortaleza,CE,Brasil,199.90,2,Pix
+
+50,2023-03-05,Livro O Código Secreto,Livros,Ana Beatriz,Goiânia,GO,Brasil,59.90,1,PayPal
+
+51,2023-03-06,Relógio Tissot,Acessórios,Carolina Mendes,Vitória,ES,Brasil,399.90,1,Cartão de Crédito
+
+52,2023-03-07,Camiseta Nike,Vestuário,Marcelo Oliveira,Florianópolis,SC,Brasil,69.90,3,Boleto
+
+53,2023-03-08,Notebook Acer,Eletrônicos,Rafael Silva,Manaus,AM,Brasil,3499.00,1,Cartão de Crédito
+
+54,2023-03-09,Tênis Adidas,Calçados,Julia Silva,Belo Horizonte,MG,Brasil,249.90,1,Pix
+
+55,2023-03-10,Livro A Garota que Roubava Livros,Livros,João Gabriel,Rio de Janeiro,RJ,Brasil,49.90,2,Boleto
+
+56,2023-03-11,Smart TV Sony,Eletrônicos,André Oliveira,São Paulo,SP,Brasil,2799.00,1,Cartão de Crédito
+
+57,2023-03-12,Bolsa de Viagem,Acessórios,Beatriz Mendes,Brasília,DF,Brasil,149.90,1,PayPal
+
+58,2023-03-13,Livro O Alquimista,Livros,Pedro Henrique,Curitiba,PR,Brasil,69.90,1,Cartão de Crédito
+
+59,2023-03-14,Headphone SteelSeries,Eletrônicos,João Lucas,Porto Alegre,RS,Brasil,299.90,2,Boleto
+
+60,2023-03-15,Camiseta Converse,Vestuário,Maria Eduarda,Recife,PE,Brasil,79.90,3,Pix
+
+61,2023-03-16,Notebook Lenovo,Eletrônicos,Ricardo Ferreira,Salvador,BA,Brasil,3799.00,1,Cartão de Crédito
+
+62,2023-03-17,Tênis Reebok,Calçados,Ana Clara,Fortaleza,CE,Brasil,199.90,1,Boleto
+
+63,2023-03-18,Livro A Sutil Arte de Ligar o Fogo,Livros,João Gabriel,Goiânia,GO,Brasil,59.90,2,PayPal
+
+64,2023-03-19,Relógio Fossil,Acessórios,Carolina Costa,Vitória,ES,Brasil,299.90,1,Cartão de Crédito
+
+65,2023-03-20,Camiseta Puma,Vestuário,Marcelo Santos,Florianópolis,SC,Brasil,69.90,3,Boleto
+
+66,2023-03-21,Notebook Dell,Eletrônicos,Rafael Alves,Manaus,AM,Brasil,3499.00,1,Cartão de Crédito
+
+67,2023-03-22,Tênis New Balance,Calçados,Julia Mendes,Belo Horizonte,MG,Brasil,249.90,1,Pix
+
+68,2023-03-23,Livro O Poder do Agora,Livros,Ana Laura,Rio de Janeiro,RJ,Brasil,49.90,2,Boleto
+
+69,2023-03-24,Smart TV LG,Eletrônicos,João Lucas,São Paulo,SP,Brasil,2999.00,1,Cartão de Crédito
+
+70,2023-03-25,Bolsa de Mão,Acessórios,Carolina Oliveira,Brasília,DF,Brasil,199.90,1,PayPal
+
+71,2023-03-26,Livro A Corrupção,Livros,Pedro Lucas,Curitiba,PR,Brasil,69.90,3,Boleto
+
+72,2023-03-27,Headphone HyperX,Eletrônicos,André Oliveira,Porto Alegre,RS,Brasil,299.90,1,Cartão de Crédito
+
+73,2023-03-28,Camiseta Nike,Vestuário,Maria Clara,Recife,PE,Brasil,79.90,2,Pix
+
+74,2023-03-29,Notebook HP,Eletrônicos,Bruno Silva,Salvador,BA,Brasil,3299.00,1,Cartão de Crédito
+
+75,2023-03-30,Tênis Vans,Calçados,João Pedro,Fortaleza,CE,Brasil,199.90,1,Boleto
+
+76,2023-03-31,Livro O Código Secreto,Livros,Ana Beatriz,Goiânia,GO,Brasil,59.90,3,PayPal
+
+77,2023-04-01,Relógio Tissot,Acessórios,Carolina Mendes,Vitória,ES,Brasil,399.90,1,Cartão de Crédito
+
+78,2023-04-02,Camiseta Adidas,Vestuário,Marcelo Oliveira,Florianópolis,SC,Brasil,69.90,2,Boleto
+
+79,2023-04-03,Notebook Acer,Eletrônicos,Rafael Silva,Manaus,AM,Brasil,3499.00,1,Cartão de Crédito
+
+80,2023-04-04,Tênis Adidas,Calçados,Julia Silva,Belo Horizonte,MG,Brasil,249.90,1,Pix
+
+81,2023-04-05,Livro A Garota que Roubava Livros,Livros,João Gabriel,Rio de Janeiro,RJ,Brasil,49.90,3,Boleto
+
+82,2023-04-06,Smart TV Sony,Eletrônicos,André Oliveira,São Paulo,SP,Brasil,2799.00,1,Cartão de Crédito
+
+83,2023-04-07,Bolsa de Viagem,Acessórios,Beatriz Mendes,Brasília,DF,Brasil,149.90,1,PayPal
+
+84,2023-04-08,Livro O Alquimista,Livros,Pedro Henrique,Curitiba,PR,Brasil,69.90,2,Cartão de Crédito
+
+85,2023-04-09,Headphone SteelSeries,Eletrônicos,João Lucas,Porto Alegre,RS,Brasil,299.90,1,Boleto
+
+86,2023-04-10,Camiseta Converse,Vestuário,Maria Eduarda,Recife,PE,Brasil,79.90,3,Pix
+
+87,2023-04-11,Notebook Lenovo,Eletrônicos,Ricardo Ferreira,Salvador,BA,Brasil,3799.00,1,Cartão de Crédito
+
+88,2023-04-12,Tênis Reebok,Calçados,Ana Clara,Fortaleza,CE,Brasil,199.90,1,Boleto
+
+89,2023-04-13,Livro A Sutil Arte de Ligar o Fogo,Livros,João Gabriel,Goiânia,GO,Brasil,59.90,2,PayPal
+
+90,2023-04-14,Relógio Fossil,Acessórios,Carolina Costa,Vitória,ES,Brasil,299.90,1,Cartão de Crédito
+
+91,2023-04-15,Camiseta Puma,Vestuário,Marcelo Santos,Florianópolis,SC,Brasil,69.90,3,Boleto
+
+92,2023-04-16,Notebook Dell,Eletrônicos,Rafael Alves,Manaus,AM,Brasil,3499.00,1,Cartão de Crédito
+
+93,2023-04-17,Tênis New Balance,Calçados,Julia Mendes,Belo Horizonte,MG,Brasil,249.90,1,Pix
+94,2023-04-18,Livro O Poder do Agora,Livros,Ana Laura,Rio de Janeiro,RJ,Brasil,49.90,2,Boleto
+95,2023-04-19,Smart TV LG,Eletrônicos,João Lucas,São Paulo,SP,Brasil,2999.00,1,Cartão de Crédito
+96,2023-04-20,Bolsa de Mão,Acessórios,Carolina Oliveira,Brasília,DF,Brasil,199.90,1,PayPal
+97,2023-04-21,Livro A Corrupção,Livros,Pedro Lucas,Curitiba,PR,Brasil,69.90,3,Boleto
+98,2023-04-22,Headphone HyperX,Eletrônicos,André Oliveira,Porto Alegre,RS,Brasil,299.90,1,Cartão de Crédito
+99,2023-04-23,Camiseta Nike,Vestuário,Maria Clara,Recife,PE,Brasil,79.90,2,Pix
+100,2023-04-24,Notebook HP,Eletrônicos,Bruno Silva,Salvador,BA,Brasil,3299.00,1,Cartão de Crédito
+101,2023-04-25,Tênis Vans,Calçados,João Pedro,Fortaleza,CE,Brasil,199.90,1,Boleto
+102,2023-04-26,Livro O Código Secreto,Livros,Ana Beatriz,Goiânia,GO,Brasil,59.90,3,PayPal
+103,2023-04-27,Relógio Tissot,Acessórios,Carolina Mendes,Vitória,ES,Brasil,399.90,1,Cartão de Crédito
+104,2023-04-28,Camiseta Adidas,Vestuário,Marcelo Oliveira,Florianópolis,SC,Brasil,69.90,2,Boleto
+105,2023-04-29,Notebook Acer,Eletrônicos,Rafael Silva,Manaus,AM,Brasil,3499.00,1,Cartão de Crédito
+106,2023-04-30,Tênis Adidas,Calçados,Julia Silva,Belo Horizonte,MG,Brasil,249.90,1,Pix
+107,2023-05-01,Livro A Garota que Roubava Livros,Livros,João Gabriel,Rio de Janeiro,RJ,Brasil,49.90,3,Boleto
+108,2023-05-02,Smart TV Sony,Eletrônicos,André Oliveira,São Paulo,SP,Brasil,2799.00,1,Cartão de Crédito
+109,2023-05-03,Bolsa de Viagem,Acessórios,Beatriz Mendes,Brasília,DF,Brasil,149.90,1,PayPal
+110,2023-05-04,Livro O Alquimista,Livros,Pedro Henrique,Curitiba,PR,Brasil,69.90,2,Cartão de Crédito
+111,2023-05-05,Headphone SteelSeries,Eletrônicos,João Lucas,Porto Alegre,RS,Brasil,299.90,1,Boleto
+112,2023-05-06,Camiseta Converse,Vestuário,Maria Eduarda,Recife,PE,Brasil,79.90,3,Pix
+113,2023-05-07,Notebook Lenovo,Eletrônicos,Ricardo Ferreira,Salvador,BA,Brasil,3799.00,1,Cartão de Crédito
+114,2023-05-08,Tênis Reebok,Calçados,Ana Clara,Fortaleza,CE,Brasil,199.90,1,Boleto
+115,2023-05-09,Livro A Sutil Arte de Ligar o Fogo,Livros,João Gabriel,Goiânia,GO,Brasil,59.90,2,PayPal
+116,2023-05-10,Relógio Fossil,Acessórios,Carolina Costa,Vitória,ES,Brasil,299.90,1,Cartão de Crédito
+117,2023-05-11,Camiseta Puma,Vestuário,Marcelo Santos,Florianópolis,SC,Brasil,69.90,3,Boleto
+118,2023-05-12,Notebook Dell,Eletrônicos,Rafael Alves,Manaus,AM,Brasil,3499.00,1,Cartão de Crédito
+119,2023-05-13,Tênis New Balance,Calçados,Julia Mendes,Belo Horizonte,MG,Brasil,249.90,1,Pix
+120,2023-05-14,Livro O Poder do Agora,Livros,Ana Laura,Rio de Janeiro,RJ,Brasil,49.90,2,Boleto
+121,2023-05-15,Smart TV LG,Eletrônicos,João Lucas,São Paulo,SP,Brasil,2999.00,1,Cartão de Crédito
+122,2023-05-16,Bolsa de Mão,Acessórios,Carolina Oliveira,Brasília,DF,Brasil,199.90,1,PayPal
+123,2023-05-17,Livro A Corrupção,Livros,Pedro Lucas,Curitiba,PR,Brasil,69.90,3,Boleto
+124,2023-05-18,Headphone HyperX,Eletrônicos,André Oliveira,Porto Alegre,RS,Brasil,299.90,1,Cartão de Crédito
+125,2023-05-19,Camiseta Nike,Vestuário,Maria Clara,Recife,PE,Brasil,79.90,2,Pix
+126,2023-05-20,Notebook HP,Eletrônicos,Bruno Silva,Salvador,BA,Brasil,3299.00,1,Cartão de Crédito
+127,2023-05-21,Tênis Vans,Calçados,João Pedro,Fortaleza,CE,Brasil,199.90,1,Boleto
+128,2023-05-22,Livro O Código Secreto,Livros,Ana Beatriz,Goiânia,GO,Brasil,59.90,3,PayPal
+129,2023-05-23,Relógio Tissot,Acessórios,Carolina Mendes,Vitória,ES,Brasil,399.90,1,Cartão de Crédito
+130,2023-05-24,Camiseta Adidas,Vestuário,Marcelo Oliveira,Florianópolis,SC,Brasil,69.90,2,Boleto
+131,2023-05-25,Notebook Acer,Eletrônicos,Rafael Silva,Manaus,AM,Brasil,3499.00,1,Cartão de Crédito
+132,2023-05-26,Tênis Adidas,Calçados,Julia Silva,Belo Horizonte,MG,Brasil,249.90,1,Pix
+133,2023-05-27,Livro A Garota que Roubava Livros,Livros,João Gabriel,Rio de Janeiro,RJ,Brasil,49.90,3,Boleto
+134,2023-05-28,Smart TV Sony,Eletrônicos,André Oliveira,São Paulo,SP,Brasil,2799.00,1,Cartão de Crédito
+135,2023-05-29,Bolsa de Viagem,Acessórios,Beatriz Mendes,Brasília,DF,Brasil,149.90,1,PayPal
+136,2023-05-30,Livro O Alquimista,Livros,Pedro Henrique,Curitiba,PR,Brasil,69.90,2,Cartão de Crédito
+137,2023-05-31,Headphone SteelSeries,Eletrônicos,João Lucas,Porto Alegre,RS,Brasil,299.90,1,Boleto
+138,2023-06-01,Camiseta Converse,Vestuário,Maria Eduarda,Recife,PE,Brasil,79.90,3,Pix
+139,2023-06-02,Notebook Lenovo,Eletrônicos,Ricardo Ferreira,Salvador,BA,Brasil,3799.00,1,Cartão de Crédito
+140,2023-06-03,Tênis Reebok,Calçados,Ana Clara,Fortaleza,CE,Brasil,199.90,1,Boleto
+141,2023-06-04,Livro A Sutil Arte de Ligar o Fogo,Livros,João Gabriel,Goiânia,GO,Brasil,59.90,2,PayPal
+142,2023-06-05,Relógio Fossil,Acessórios,Carolina Costa,Vitória,ES,Brasil,299.90,1,Cartão de Crédito
+143,2023-06-06,Camiseta Puma,Vestuário,Marcelo Santos,Florianópolis,SC,Brasil,69.90,3,Boleto
+144,2023-06-07,Notebook Dell,Eletrônicos,Rafael Alves,Manaus,AM,Brasil,3499.00,1,Cartão de Crédito
+145,2023-06-08,Tênis New Balance,Calçados,Julia Mendes,Belo Horizonte,MG,Brasil,249.90,1,Pix
+146,2023-06-09,Livro O Poder do Agora,Livros,Ana Laura,Rio de Janeiro,RJ,Brasil,49.90,2,Boleto
+147,2023-06-10,Smart TV LG,Eletrônicos,João Lucas,São Paulo,SP,Brasil,2999.00,1,Cartão de Crédito
+148,2023-06-11,Bolsa de Mão,Acessórios,Carolina Oliveira,Brasília,DF,Brasil,199.90,1,PayPal
+149,2023-06-12,Livro A Corrupção,Livros,Pedro Lucas,Curitiba,PR,Brasil,69.90,3,Boleto
+150,2023-06-13,Headphone HyperX,Eletrônicos,André Oliveira,Porto Alegre,RS,Brasil,299.90,1,Cartão de Crédito
+151,2023-06-14,Camiseta Nike,Vestuário,Maria Clara,Recife,PE,Brasil,79.90,2,Pix
+152,2023-06-15,Notebook HP,Eletrônicos,Bruno Silva,Salvador,BA,Brasil,3299.00,1,Cartão de Crédito
+153,2023-06-16,Tênis Vans,Calçados,João Pedro,Fortaleza,CE,Brasil,199.90,1,Boleto
+154,2023-06-17,Livro O Código Secreto,Livros,Ana Beatriz,Goiânia,GO,Brasil,59.90,3,PayPal
+155,2023-06-18,Relógio Tissot,Acessórios,Carolina Mendes,Vitória,ES,Brasil,399.90,1,Cartão de Crédito
+156,2023-06-19,Camiseta Adidas,Vestuário,Marcelo Oliveira,Florianópolis,SC,Brasil,69.90,2,Boleto
+157,2023-06-20,Notebook Acer,Eletrônicos,Rafael Silva,Manaus,AM,Brasil,3499.00,1,Cartão de Crédito
+158,2023-06-21,Tênis Adidas,Calçados,Julia Silva,Belo Horizonte,MG,Brasil,249.90,1,Pix
+159,2023-06-22,Livro A Garota que Roubava Livros,Livros,João Gabriel,Rio de Janeiro,RJ,Brasil,49.90,3,Boleto
+160,2023-06-23,Smart TV Sony,Eletrônicos,André Oliveira,São Paulo,SP,Brasil,2799.00,1,Cartão de Crédito
+161,2023-06-24,Bolsa de Viagem,Acessórios,Beatriz Mendes,Brasília,DF,Brasil,149.90,1,PayPal
+162,2023-06-25,Livro O Alquimista,Livros,Pedro Henrique,Curitiba,PR,Brasil,69.90,2,Cartão de Crédito
+163,2023-06-26,Headphone SteelSeries,Eletrônicos,João Lucas,Porto Alegre,RS,Brasil,299.90,1,Boleto
+164,2023-06-27,Camiseta Converse,Vestuário,Maria Eduarda,Recife,PE,Brasil,79.90,3,Pix
+165,2023-06-28,Notebook Lenovo,Eletrônicos,Ricardo Ferreira,Salvador,BA,Brasil,3799.00,1,Cartão de Crédito
+166,2023-06-29,Tênis Reebok,Calçados,Ana Clara,Fortaleza,CE,Brasil,199.90,1,Boleto
+167,2023-06-30,Livro A Sutil Arte de Ligar o Fogo,Livros,João Gabriel,Goiânia,GO,Brasil,59.90,2,PayPal
+168,2023-07-01,Relógio Fossil,Acessórios,Carolina Costa,Vitória,ES,Brasil,299.90,1,Cartão de Crédito
+169,2023-07-02,Camiseta Puma,Vestuário,Marcelo Santos,Florianópolis,SC,Brasil,69.90,3,Boleto
+170,2023-07-03,Notebook Dell,Eletrônicos,Rafael Alves,Manaus,AM,Brasil,3499.00,1,Cartão de Crédito
+171,2023-07-04,Tênis New Balance,Calçados,Julia Mendes,Belo Horizonte,MG,Brasil,249.90,1,Pix
+172,2023-07-05,Livro O Poder do Agora,Livros,Ana Laura,Rio de Janeiro,RJ,Brasil,49.90,2,Boleto
+173,2023-07-06,Smart TV LG,Eletrônicos,João Lucas,São Paulo,SP,Brasil,2999.00,1,Cartão de Crédito
+174,2023-07-07,Bolsa de Mão,Acessórios,Carolina Oliveira,Brasília,DF,Brasil,199.90,1,PayPal
+175,2023-07-08,Livro A Corrupção,Livros,Pedro Lucas,Curitiba,PR,Brasil,69.90,3,Boleto
+176,2023-07-09,Headphone HyperX,Eletrônicos,André Oliveira,Porto Alegre,RS,Brasil,299.90,1,Cartão de Crédito
+177,2023-07-10,Camiseta Nike,Vestuário,Maria Clara,Recife,PE,Brasil,79.90,2,Pix
+178,2023-07-11,Notebook HP,Eletrônicos,Bruno Silva,Salvador,BA,Brasil,3299.00,1,Cartão de Crédito
+179,2023-07-12,Tênis Vans,Calçados,João Pedro,Fortaleza,CE,Brasil,199.90,1,Boleto
+180,2023-07-13,Livro O Código Secreto,Livros,Ana Beatriz,Goiânia,GO,Brasil,59.90,3,PayPal
+181,2023-07-14,Relógio Tissot,Acessórios,Carolina Mendes,Vitória,ES,Brasil,399.90,1,Cartão de Crédito
+182,2023-07-15,Camiseta Adidas,Vestuário,Marcelo Oliveira,Florianópolis,SC,Brasil,69.90,2,Boleto
+183,2023-07-16,Notebook Acer,Eletrônicos,Rafael Silva,Manaus,AM,Brasil,3499.00,1,Cartão de Crédito
+184,2023-07-17,Tênis Adidas,Calçados,Julia Silva,Belo Horizonte,MG,Brasil,249.90,1,Pix
+185,2023-07-18,Livro A Garota que Roubava Livros,Livros,João Gabriel,Rio de Janeiro,RJ,Brasil,49.90,3,Boleto
+186,2023-07-19,Smart TV Sony,Eletrônicos,André Oliveira,São Paulo,SP,Brasil,2799.00,1,Cartão de Crédito
+187,2023-07-20,Bolsa de Viagem,Acessórios,Beatriz Mendes,Brasília,DF,Brasil,149.90,1,PayPal
+188,2023-07-21,Livro O Alquimista,Livros,Pedro Henrique,Curitiba,PR,Brasil,69.90,2,Cartão de Crédito
+189,2023-07-22,Headphone SteelSeries,Eletrônicos,João Lucas,Porto Alegre,RS,Brasil,299.90,1,Boleto
+190,2023-07-23,Camiseta Converse,Vestuário,Maria Eduarda,Recife,PE,Brasil,79.90,3,Pix
+191,2023-07-24,Notebook Lenovo,Eletrônicos,Ricardo Ferreira,Salvador,BA,Brasil,3799.00,1,Cartão de Crédito
+192,2023-07-25,Tênis Reebok,Calçados,Ana Clara,Fortaleza,CE,Brasil,199.90,1,Boleto
+193,2023-07-26,Livro A Sutil Arte de Ligar o Fogo,Livros,João Gabriel,Goiânia,GO,Brasil,59.90,2,PayPal
+194,2023-07-27,Relógio Fossil,Acessórios,Carolina Costa,Vitória,ES,Brasil,299.90,1,Cartão de Crédito
+195,2023-07-28,Camiseta Puma,Vestuário,Marcelo Santos,Florianópolis,SC,Brasil,69.90,3,Boleto
+196,2023-07-29,Notebook Dell,Eletrônicos,Rafael Alves,Manaus,AM,Brasil,3499.00,1,Cartão de Crédito
+197,2023-07-30,Tênis New Balance,Calçados,Julia Mendes,Belo Horizonte,MG,Brasil,249.90,1,Pix
+198,2023-07-31,Livro O Poder do Agora,Livros,Ana Laura,Rio de Janeiro,RJ,Brasil,49.90,2,Boleto
+199,2023-08-01,Smart TV LG,Eletrônicos,João Lucas,São Paulo,SP,Brasil,2999.00,1,Cartão de Crédito
+200,2023-08-02,Bolsa de Mão,Acessórios,Carolina Oliveira,Brasília,DF,Brasil,199.90,1,PayPal

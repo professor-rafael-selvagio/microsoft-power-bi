@@ -1,0 +1,10 @@
+ETL - Extract, Transform, Load (Extrair, transformar e carregar) é um processo comum na área de Business Intelligence (BI) e se refere às etapas necessárias para coletar, transformar e carregar dados de diversas fontes em um ambiente de armazenamento de dados adequado para análise.
+Aqui estão as três etapas do processo ETL:
+
+Extract (Extração): Nesta etapa, os dados são extraídos de várias fontes, como bancos de dados, planilhas, sistemas ERP (Enterprise Resource Planning), CRM (Customer Relationship Management), entre outros. Os dados podem ser extraídos de diferentes formatos, como arquivos CSV, bancos de dados relacionais ou APIs (Application Programming Interfaces).
+Transform (Transformação): Após a extração, os dados passam por um processo de transformação, no qual são limpos, filtrados, formatados e reestruturados para atender aos requisitos específicos do sistema de destino ou modelo de dados. A transformação também pode envolver a combinação de dados de diferentes fontes, a aplicação de regras de negócios, a criação de cálculos e a agregação de informações.
+Load (Carga): Na etapa final, os dados transformados são carregados em um sistema de armazenamento adequado, como um data warehouse, um data lake ou um banco de dados otimizado para análise, para que possam ser acessados e consultados com eficiência pelos usuários finais. A carga pode ser realizada de forma incremental, adicionando apenas os novos dados desde a última carga, ou de forma completa, substituindo todos os dados existentes.
+
+O processo ETL é essencial para garantir a qualidade e a integridade dos dados utilizados na análise e na geração de relatórios de BI. Ele permite que os dados brutos sejam transformados em um formato estruturado, pronto para serem explorados e visualizados por meio de ferramentas como o Power BI.
+
+https://www.youtube.com/watch?v=ko6hDXfVDuM

@@ -1,0 +1,78 @@
+idTransacao,dataDaTransacao,Estabelecimento,cidade,estado,pais,valor,parcelado?,numeroDaParcela,classificacaoDoGasto
+1,2023-01-05,Supermercado ABC,São Paulo,SP,Brasil,250.00,Não,0,Alimentação
+2,2023-01-10,Restaurante XYZ,Rio de Janeiro,RJ,Brasil,120.50,Não,0,Alimentação
+3,2023-01-15,Loja de Roupas Fashion,Porto Alegre,RS,Brasil,350.00,Não,0,Vestuário
+4,2023-02-02,Cinema Cineplex,Chicago,IL,Estados Unidos,30.00,Não,0,Entretenimento
+5,2023-02-05,Posto de Gasolina ABC,Londres,Inglaterra,Reino Unido,70.00,Não,0,Transporte
+6,2023-02-10,Livraria XYZ,São Paulo,SP,Brasil,80.00,Não,0,Lazer
+7,2023-02-15,Supermercado ABC,São Paulo,SP,Brasil,180.00,Sim,1,Alimentação
+8,2023-02-15,Supermercado ABC,São Paulo,SP,Brasil,180.00,Sim,2,Alimentação
+9,2023-02-20,Restaurante XYZ,Rio de Janeiro,RJ,Brasil,250.00,Não,0,Alimentação
+10,2023-03-02,Loja de Eletrônicos ABC,Los Angeles,CA,Estados Unidos,1500.00,Não,0,Tecnologia
+11,2023-03-05,Posto de Gasolina ABC,Londres,Inglaterra,Reino Unido,45.00,Não,0,Transporte
+12,2023-03-10,Supermercado ABC,São Paulo,SP,Brasil,320.00,Não,0,Alimentação
+13,2023-03-15,Restaurante XYZ,Rio de Janeiro,RJ,Brasil,180.00,Não,0,Alimentação
+14,2023-04-01,Livraria XYZ,São Paulo,SP,Brasil,50.00,Não,0,Lazer
+15,2023-04-05,Supermercado ABC,São Paulo,SP,Brasil,220.00,Não,0,Alimentação
+16,2023-04-10,Restaurante XYZ,Rio de Janeiro,RJ,Brasil,150.00,Não,0,Alimentação
+17,2023-04-15,Loja de Roupas Fashion,Porto Alegre,RS,Brasil,420.00,Sim,1,Vestuário
+18,2023-04-15,Loja de Roupas Fashion,Porto Alegre,RS,Brasil,420.00,Sim,2,Vestuário
+19,2023-04-20,Cinema Cineplex,Chicago,IL,Estados Unidos,25.00,Não,0,Entretenimento
+20,2023-05-02,Supermercado ABC,São Paulo,SP,Brasil,180.00,Não,0,Alimentação
+21,2023-05-05,Posto de Gasolina ABC,Londres,Inglaterra,Reino Unido,60.00,Não,0,Transporte
+22,2023-05-10,Supermercado ABC,São Paulo,SP,Brasil,210.00,Não,0,Alimentação
+23,2023-05-15,Restaurante XYZ,Rio de Janeiro,RJ,Brasil,180.00,Sim,1,Alimentação
+24,2023-05-15,Restaurante XYZ,Rio de Janeiro,RJ,Brasil,180.00,Sim,2,Alimentação
+25,2023-06-02,Loja de Eletrônicos ABC,Los Angeles,CA,Estados Unidos,2500.00,Não,0,Tecnologia
+26,2023-06-05,Supermercado ABC,São Paulo,SP,Brasil,230.00,Não,0,Alimentação
+27,2023-06-10,Restaurante XYZ,Rio de Janeiro,RJ,Brasil,150.00,Não,0,Alimentação
+28,2023-06-15,Loja de Roupas Fashion,Porto Alegre,RS,Brasil,400.00,Sim,1,Vestuário
+29,2023-06-15,Loja de Roupas Fashion,Porto Alegre,RS,Brasil,400.00,Sim,2,Vestuário
+30,2023-06-20,Cinema Cineplex,Chicago,IL,Estados Unidos,20.00,Não,0,Entretenimento
+31,2023-07-02,Supermercado ABC,São Paulo,SP,Brasil,190.00,Não,0,Alimentação
+32,2023-07-05,Restaurante XYZ,Rio de Janeiro,RJ,Brasil,160.00,Não,0,Alimentação
+33,2023-07-10,Loja de Roupas Fashion,Porto Alegre,RS,Brasil,350.00,Não,0,Vestuário
+34,2023-07-15,Cinema Cineplex,Chicago,IL,Estados Unidos,35.00,Não,0,Entretenimento
+35,2023-07-20,Supermercado ABC,São Paulo,SP,Brasil,220.00,Não,0,Alimentação
+36,2023-08-02,Restaurante XYZ,Rio de Janeiro,RJ,Brasil,180.00,Não,0,Alimentação
+37,2023-08-05,Loja de Eletrônicos ABC,Los Angeles,CA,Estados Unidos,3000.00,Não,0,Tecnologia
+38,2023-08-10,Supermercado ABC,São Paulo,SP,Brasil,190.00,Não,0,Alimentação
+39,2023-08-15,Restaurante XYZ,Rio de Janeiro,RJ,Brasil,170.00,Não,0,Alimentação
+41,2023-09-02,Supermercado ABC,São Paulo,SP,Brasil,200.00,Não,0,Alimentação
+42,2023-09-05,Restaurante XYZ,Rio de Janeiro,RJ,Brasil,160.00,Não,0,Alimentação
+43,2023-09-10,Loja de Roupas Fashion,Porto Alegre,RS,Brasil,360.00,Sim,1,Vestuário
+44,2023-09-10,Loja de Roupas Fashion,Porto Alegre,RS,Brasil,360.00,Sim,2,Vestuário
+45,2023-09-15,Cinema Cineplex,Chicago,IL,Estados Unidos,40.00,Não,0,Entretenimento
+46,2023-09-20,Supermercado ABC,São Paulo,SP,Brasil,180.00,Não,0,Alimentação
+47,2023-10-02,Restaurante XYZ,Rio de Janeiro,RJ,Brasil,170.00,Não,0,Alimentação
+48,2023-10-05,Loja de Eletrônicos ABC,Los Angeles,CA,Estados Unidos,2800.00,Não,0,Tecnologia
+49,2023-10-10,Supermercado ABC,São Paulo,SP,Brasil,210.00,Não,0,Alimentação
+50,2023-10-15,Restaurante XYZ,Rio de Janeiro,RJ,Brasil,150.00,Não,0,Alimentação
+51,2023-11-02,Loja de Roupas Fashion,Porto Alegre,RS,Brasil,380.00,Não,0,Vestuário
+52,2023-11-05,Cinema Cineplex,Chicago,IL,Estados Unidos,45.00,Não,0,Entretenimento
+53,2023-11-10,Supermercado ABC,São Paulo,SP,Brasil,200.00,Não,0,Alimentação
+54,2023-11-15,Restaurante XYZ,Rio de Janeiro,RJ,Brasil,180.00,Sim,1,Alimentação
+55,2023-11-15,Restaurante XYZ,Rio de Janeiro,RJ,Brasil,180.00,Sim,2,Alimentação
+56,2023-11-20,Loja de Roupas Fashion,Porto Alegre,RS,Brasil,350.00,Não,0,Vestuário
+57,2023-12-02,Cinema Cineplex,Chicago,IL,Estados Unidos,40.00,Não,0,Entretenimento
+58,2023-12-05,Supermercado ABC,São Paulo,SP,Brasil,220.00,Não,0,Alimentação
+59,2023-12-10,Restaurante XYZ,Rio de Janeiro,RJ,Brasil,160.00,Não,0,Alimentação
+61,2023-12-20,Supermercado ABC,São Paulo,SP,Brasil,190.00,Não,0,Alimentação
+62,2024-01-02,Restaurante XYZ,Rio de Janeiro,RJ,Brasil,180.00,Não,0,Alimentação
+63,2024-01-05,Loja de Roupas Fashion,Porto Alegre,RS,Brasil,370.00,Sim,1,Vestuário
+64,2024-01-05,Loja de Roupas Fashion,Porto Alegre,RS,Brasil,370.00,Sim,2,Vestuário
+65,2024-01-10,Cinema Cineplex,Chicago,IL,Estados Unidos,35.00,Não,0,Entretenimento
+66,2024-01-15,Supermercado ABC,São Paulo,SP,Brasil,210.00,Não,0,Alimentação
+67,2024-02-02,Restaurante XYZ,Rio de Janeiro,RJ,Brasil,160.00,Não,0,Alimentação
+68,2024-02-05,Loja de Eletrônicos ABC,Los Angeles,CA,Estados Unidos,2700.00,Não,0,Tecnologia
+69,2024-02-10,Supermercado ABC,São Paulo,SP,Brasil,200.00,Não,0,Alimentação
+70,2024-02-15,Restaurante XYZ,Rio de Janeiro,RJ,Brasil,150.00,Não,0,Alimentação
+71,2024-03-02,Loja de Roupas Fashion,Porto Alegre,RS,Brasil,400.00,Não,0,Vestuário
+72,2024-03-05,Cinema Cineplex,Chicago,IL,Estados Unidos,40.00,Não,0,Entretenimento
+73,2024-03-10,Supermercado ABC,São Paulo,SP,Brasil,230.00,Não,0,Alimentação
+74,2024-03-15,Restaurante XYZ,Rio de Janeiro,RJ,Brasil,180.00,Sim,1,Alimentação
+75,2024-03-15,Restaurante XYZ,Rio de Janeiro,RJ,Brasil,180.00,Sim,2,Alimentação
+76,2024-03-20,Loja de Roupas Fashion,Porto Alegre,RS,Brasil,380.00,Não,0,Vestuário
+77,2024-04-02,Cinema Cineplex,Chicago,IL,Estados Unidos,45.00,Não,0,Entretenimento
+78,2024-04-05,Supermercado ABC,São Paulo,SP,Brasil,240.00,Não,0,Alimentação
+79,2024-04-10,Restaurante XYZ,Rio de Janeiro,RJ,Brasil,170.00,Não,0,Alimentação

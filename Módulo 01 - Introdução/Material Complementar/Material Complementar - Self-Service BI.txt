@@ -1,0 +1,12 @@
+Self-service BI, ou Business Intelligence (BI) de autosserviço, é uma abordagem na qual os usuários de negócios têm a capacidade de acessar, explorar e analisar dados por conta própria, sem depender exclusivamente de especialistas em TI ou equipes de análise de dados.
+
+Com o self-service BI, os usuários podem utilizar ferramentas e plataformas intuitivas e amigáveis, como o Power BI, para criar seus próprios relatórios, dashboards e análises personalizadas, sem a necessidade de conhecimentos avançados em programação ou estatística.
+
+Algumas características e benefícios do self-service BI incluem:
+Acesso direto aos dados: Os usuários podem conectar-se a diferentes fontes de dados, como bancos de dados, planilhas, serviços na nuvem, entre outros, e extrair os dados relevantes para suas análises, sem depender da equipe de TI para obter essas informações.
+Visualizações interativas: Com o self-service BI, os usuários podem criar visualizações de dados interativas e dinâmicas, como gráficos, tabelas, mapas e outros elementos visuais, para representar seus dados de forma clara e compreensível.
+Análise ad hoc: Os usuários têm a capacidade de realizar análises ad hoc, explorando seus dados de forma livre e descobrindo insights sem a necessidade de solicitar relatórios ou análises pré-definidas.
+Autonomia e agilidade: Com o self-service BI, os usuários têm mais autonomia e agilidade para obter as informações necessárias no momento adequado, sem depender de longos processos de solicitação e espera por relatórios personalizados.
+No geral, o self-service BI capacita os usuários de negócios a tomar decisões informadas e baseadas em dados, agilizando o processo de análise e fornecendo insights relevantes de forma mais rápida e eficiente.
+
+https://www.youtube.com/watch?v=uY6cuQhpQrc

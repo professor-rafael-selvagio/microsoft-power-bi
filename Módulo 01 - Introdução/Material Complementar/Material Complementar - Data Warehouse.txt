@@ -1,0 +1,12 @@
+Um data warehouse é um sistema de armazenamento de dados centralizado e otimizado para facilitar a análise e a geração de relatórios de negócios. Ele é projetado para coletar, integrar, organizar e armazenar grandes volumes de dados de diferentes fontes em um formato consistente e estruturado.
+
+O objetivo principal de um data warehouse é fornecer uma visão abrangente e histórica dos dados de uma organização, permitindo análises complexas e tomada de decisões baseadas em dados.
+Aqui estão algumas características e benefícios do data warehouse:
+Integração de dados: Um data warehouse permite integrar dados de várias fontes, como bancos de dados transacionais, sistemas de CRM, sistemas financeiros e muito mais. Ele fornece um ambiente unificado para armazenar e gerenciar dados de diferentes origens, garantindo consistência e qualidade dos dados.
+Estruturação e modelagem de dados: No data warehouse, os dados são organizados em um modelo de dados dimensionais ou modelo de estrela, facilitando a análise e o acesso rápido aos dados. Esse modelo permite que os usuários façam consultas complexas e agregações eficientes.
+Armazenamento otimizado para análise: Um data warehouse é projetado para oferecer um desempenho rápido e eficiente para consultas e análises de dados. Ele utiliza técnicas de indexação, particionamento e otimização para acelerar o acesso aos dados e suportar análises complexas em tempo real.
+Histórico e visão temporal: Um data warehouse mantém um histórico dos dados ao longo do tempo, permitindo análises comparativas e tendências ao longo do tempo. Isso é particularmente útil para análises de negócios que exigem uma perspectiva histórica.
+Suporte à tomada de decisões: O data warehouse fornece uma base sólida para análise de negócios e suporte à tomada de decisões informadas. Os usuários podem explorar os dados, criar relatórios personalizados, realizar análises complexas e descobrir insights valiosos para impulsionar o crescimento e o sucesso da organização.
+Em resumo, um data warehouse é uma solução de armazenamento de dados estruturada e otimizada para facilitar análises de negócios e tomada de decisões baseadas em dados. Ele desempenha um papel crucial na integração e organização dos dados para suportar a inteligência de negócios e a análise de dados em uma organização.
+
+youtube.com/watch?v=UYqqGcMKFW8&authuser=0

@@ -1,0 +1,6 @@
+1. Qual é o valor total de vendas do produto "Smart TV LG"?
+2. Quantos clientes compraram o produto "Tênis Nike Air Max"?
+3. Qual é o método de pagamento mais utilizado pelos clientes?
+4. Quantos produtos da categoria "Eletrônicos" foram vendidos?
+5. Qual é o valor total de vendas do cliente "Pedro Lucas"?
+6. Qual é o valor médio das transações realizadas por meio do pagamento com "Pix"?
