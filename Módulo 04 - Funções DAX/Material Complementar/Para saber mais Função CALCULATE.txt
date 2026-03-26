@@ -1,0 +1,22 @@
+A função CALCULATE no Power BI é uma função muito poderosa usada para modificar o contexto de avaliação das fórmulas em uma expressão DAX (Data Analysis Expressions). Ela permite que você aplique filtros e altere o contexto de cálculo dos dados em uma fórmula.
+A função CALCULATE possui a seguinte sintaxe básica:
+CALCULATE(<expression>, <filter1>, <filter2>, ...)
+<expression> representa a expressão ou medida que deseja calcular ou modificar.
+<filter1>, <filter2>, etc., são os filtros opcionais que você deseja aplicar à expressão.
+A função CALCULATE pode ser usada para realizar várias tarefas, incluindo:
+
+
+Aplicar filtros: Você pode usar a função CALCULATE para aplicar filtros a uma expressão. Por exemplo, você pode calcular o total de vendas apenas para um determinado produto ou período de tempo específico.
+
+Modificar o contexto de avaliação: A função CALCULATE permite modificar o contexto de avaliação das fórmulas. Por exemplo, você pode calcular uma medida de vendas com base em um contexto de filtro diferente do contexto padrão.
+
+Criar cálculos condicionais: Você pode usar a função CALCULATE em combinação com funções condicionais, como IF ou SWITCH, para criar cálculos condicionais com base em diferentes critérios.
+
+Agregar ou restringir dados: A função CALCULATE pode ser usada para agregar ou restringir dados com base em determinadas condições. Por exemplo, você pode calcular a média de vendas apenas para determinados grupos de produtos ou para um segmento específico de clientes.
+
+
+Em resumo, a função CALCULATE no Power BI é uma ferramenta essencial para manipular o contexto de avaliação e aplicar filtros personalizados em suas fórmulas e medidas. Ela oferece flexibilidade e controle sobre como os cálculos são realizados em suas análises de dados.
+
+Veja no vídeo do material como utilizá-la corretamente.
+
+https://www.youtube.com/watch?v=oZK-FJVL-kw

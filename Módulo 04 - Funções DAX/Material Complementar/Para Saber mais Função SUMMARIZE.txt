@@ -1,0 +1,12 @@
+No Power BI, a tarefa de sumarizar dados refere-se a consolidar informações de forma agregada para apresentar uma visão resumida e compreensível dos dados subjacentes. Existem várias maneiras de realizar essa tarefa no Power BI, e vou apresentar algumas delas:
+
+Tabelas e Matrizes: Você pode usar tabelas ou matrizes para exibir dados em formato tabular, com colunas e linhas. Você pode organizar os dados em grupos e utilizar funções de agregação, como soma, média, mínimo e máximo, para mostrar os valores resumidos.
+Gráficos: Os gráficos são uma ótima maneira de visualizar dados sumarizados. Você pode criar gráficos de colunas, gráficos de pizza, gráficos de linhas e muitos outros tipos para representar visualmente os valores agregados. Os gráficos podem ser configurados para mostrar a soma, média, contagem, máximo, mínimo ou outras medidas agregadas.
+Medidas: No Power BI, as medidas são cálculos personalizados que você pode criar para realizar operações de agregação nos dados. Por exemplo, você pode criar uma medida que calcula a soma das vendas ou a média das horas trabalhadas. As medidas podem ser usadas em visualizações para apresentar os valores agregados.
+Gráficos de Barras e Cartões KPI: Os gráficos de barras e os cartões KPI são elementos visuais específicos no Power BI que fornecem uma maneira rápida de sumarizar dados. Os gráficos de barras mostram a comparação entre diferentes categorias, enquanto os cartões KPI exibem um valor específico, como a receita total ou a porcentagem de crescimento.
+
+Além dessas opções, o Power BI oferece recursos avançados de modelagem de dados, como a criação de hierarquias, a aplicação de filtros e a utilização de consultas de dados para extrair informações específicas. Essas ferramentas podem ajudar a sumarizar os dados de forma mais refinada e personalizada.
+
+Lembre-se de que a maneira como você sumariza os dados depende do contexto e do objetivo da análise. Experimente diferentes técnicas e ferramentas no Power BI para encontrar a melhor forma de resumir e apresentar os dados de maneira clara e impactante.
+
+https://www.youtube.com/watch?v=hOSXoLslMFY

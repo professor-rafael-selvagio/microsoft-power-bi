@@ -1,0 +1,5 @@
+Conecte a base de dados no Microsoft Power BI e gere uma dashboard igual ao arquivo "Industria4-SistemaSupervisionadoNova.pdf".
+
+Base de Dados - https://docs.google.com/spreadsheets/d/11pW36FRa8d9jQ8q8XpOYdp4VWiwYnZ9Ha4jIDOb0L1U/edit?usp=sharing
+
+Dashboard - https://app.powerbi.com/view?r=eyJrIjoiODdiMDg4MzQtNmZiZC00ZTVjLWE4MGItZDUzMjU0ODZiMWIyIiwidCI6IjQxNDhhNmRlLTBkZDEtNGQwNC1hNGM1LTc4ZTM3NGU0ZjZkNiIsImMiOjR9

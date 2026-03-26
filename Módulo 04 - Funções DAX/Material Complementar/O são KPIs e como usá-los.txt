@@ -1,0 +1,17 @@
+Os KPIs (Key Performance Indicators), ou Indicadores-Chave de Desempenho, no Power BI são medidas visuais que fornecem informações rápidas e resumidas sobre o desempenho de uma métrica específica em relação a um objetivo definido. Eles ajudam a monitorar o progresso, identificar tendências e avaliar o sucesso em alcançar metas.
+Os KPIs no Power BI são úteis para fornecer uma visão rápida e clara sobre o desempenho dos negócios. Eles podem ser representados graficamente usando diferentes formatos, como medidores, gráficos de barras ou cartões.
+
+Aqui estão os passos básicos para criar e usar KPIs no Power BI:
+
+
+Defina o objetivo: Comece identificando qual métrica ou indicador é importante para monitorar. Pode ser uma meta de vendas, taxa de conversão, satisfação do cliente, tempo de resposta, entre outros.
+Crie medidas: Para calcular a métrica desejada, você precisa criar medidas no Power BI. As medidas são fórmulas que agregam ou calculam os valores com base nos dados disponíveis. Por exemplo, você pode criar uma medida para calcular as vendas totais ou a taxa de conversão.
+Configure os KPIs: Na visualização de relatório do Power BI, vá para a guia "Modelagem" e selecione a opção "Novo KPI". Aqui, você pode configurar os detalhes do KPI, como nome, meta, valor atual, cor, símbolos e limites. É possível usar medidas existentes para definir a meta e o valor atual.
+Adicione os KPIs ao relatório: Agora, você pode adicionar os KPIs criados ao seu relatório. Selecione o KPI na guia "Visualizações" e posicione-o no local desejado do relatório. Os KPIs fornecerão uma representação visual do desempenho atual em relação à meta definida.
+Personalize a aparência: Você pode personalizar a aparência dos KPIs, como tamanho, cor, fonte, layout e estilo, para que se ajustem ao design do seu relatório.
+
+
+Ao usar KPIs no Power BI, é importante definir metas realistas e relevantes para a métrica em questão. Além disso, acompanhe regularmente os KPIs para monitorar o progresso e tomar medidas corretivas, se necessário.
+Os KPIs podem ser uma ferramenta valiosa para destacar informações essenciais e tomar decisões informadas com base nos dados no Power BI.
+
+https://www.youtube.com/watch?v=3T7dIVTdmys

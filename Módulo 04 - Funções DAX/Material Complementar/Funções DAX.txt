@@ -1,0 +1,16 @@
+As funções DAX - Data Analysis Expressions (Expressões de análise de dados) são uma linguagem de fórmula usada no Power BI (e em outras ferramentas da família Microsoft, como o Excel e o Analysis Services) para realizar cálculos e manipulações de dados. As funções DAX permitem criar fórmulas personalizadas e medidas que podem ser aplicadas a conjuntos de dados no Power BI.
+
+As funções DAX são projetadas para trabalhar com colunas de tabelas e permitem realizar uma ampla gama de operações, como agregação de valores, filtragem, cálculos condicionais, manipulação de datas e muito mais. Elas são especialmente úteis quando se deseja criar medidas personalizadas para realizar cálculos específicos com base nos dados disponíveis.
+
+As funções DAX são semelhantes às fórmulas do Excel, mas possuem algumas diferenças e recursos adicionais. Elas são projetadas para trabalhar com tabelas inteiras em vez de células individuais, permitindo que você agregue valores, filtre dados com base em critérios específicos e faça referência a outras colunas dentro de uma fórmula.
+
+Ao usar as funções DAX, você pode criar medidas, colunas calculadas e tabelas calculadas no Power BI. As medidas são cálculos que fornecem informações resumidas e agregadas, como soma, média, mínimo, máximo e contagem. As colunas calculadas são colunas adicionais que você cria em uma tabela com base em fórmulas DAX. E as tabelas calculadas são tabelas que você cria com base em expressões DAX para realizar cálculos complexos e criar relacionamentos entre tabelas.
+
+As funções DAX são uma parte fundamental do Power BI e permitem que você realize análises avançadas e obtenha insights significativos a partir dos seus dados. Ao dominar as funções DAX, você poderá criar fórmulas personalizadas poderosas para realizar cálculos precisos e manipulações de dados no Power BI.
+
+https://www.youtube.com/watch?v=9pCIXSdGDDc
+
+https://www.youtube.com/watch?v=-HwMfHT_QFM
+
+https://learn.microsoft.com/pt-br/dax/?authuser=0
+

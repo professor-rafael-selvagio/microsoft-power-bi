@@ -1,0 +1,1 @@
+Nessa atividade prática você será desafiado a construir lógicas mais complexas usando as formulas DAX. Veja o PDF anexo e baixe também as bases de dados que você vai precisar.

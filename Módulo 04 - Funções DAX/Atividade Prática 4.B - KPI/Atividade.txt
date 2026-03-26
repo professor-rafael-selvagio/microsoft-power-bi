@@ -1,0 +1,14 @@
+Perguntas:
+
+Página 1
+1 - Qual software gerou mais receita?
+2 - Qual o valor total da venda de software?
+3 - Qual vendedor mais contribuiu para a receita da empresa?
+4 - Qual valor médio de uma licença de cada software comercializado? (tabela)
+5 - Qual o total de licenças negociadas por cada canal de vendas? (tabela)
+6 - Na análise trimestral, a meta de R$ 8.000,00 foi batida?
+7 - Crie a Meta 2024, calculando a média do faturamento e acrescendo 50%.
+
+Página 2
+Crie uma dashboard focada em exibir dados dos vendedores.
+Crie uma nova tabela usando a função TOPN, para classificar os melhores vendedores, levando em consideração: Status da Venda diferente de Cancelada.

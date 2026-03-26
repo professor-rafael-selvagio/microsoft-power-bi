@@ -1,0 +1,9 @@
+Tratamento de dados e modelagem
+Kits Escolares e UEs_2025
+Criar tabela para Tipo (CEMEI, EMEB, ...)
+Criar tabla para região (I, II, III, IV, ...)
+Relacionamentos
+Verificar possíveis colunas que se relacionam e manter uma relação com as novas tabelas
+
+Dashboard
+Criar um mapa com o endereço das unidades escolares
