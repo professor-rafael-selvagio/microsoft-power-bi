@@ -1,0 +1,20 @@
+A importação de dados no Power Bi é bastante simples e intuitiva. Na maioria dos casos ela segue um fluxo padrão que consiste em 6 passos: 
+
+1) No menu "página inicial" clicar na opção "obter dados"
+2) No pop up, selecione a fonte de dados que você deseja obter suas informações e clique em "conectar"
+3) Na janela de seleção de arquivos, navegue até o arquivo que você deseja obter os dados e selecione-o.
+4) Na janela que se abriu na tela, selecione a opção "transformar dados" para abrir o power query.
+5) Verifique se todos os tipos de dados estão corretos
+6) Finalize o power query e clique em "salvar e fechar"
+
+Os passos 4, 5, 6 são de certa forma opcionais, visto que você pode apenas carregar os dados diretamente como eles já estão. No entanto, é comum que o Power BI erre na sua "adivinhação" de qual tipo de dados se trata a coluna. Assim, uma ajudinha manual é sempre melhor para evitar problemas na sua análise.
+
+📽️ Para entender melhor!
+
+Nesse material separamos 3 vídeos excelentes de como podemos importar dados no Power BI. O vídeo número 1 mostra a importação de arquivos Excel, o vídeo numero 2 mostra a importação de arquivos JSON, por fim, um bônus mostrando como importar dados de um arquivo PDF!
+
+youtube.com/watch?v=RMCvm94BURE&authuser=0
+
+https://www.youtube.com/watch?v=oKf5S9USBRU
+
+https://www.youtube.com/watch?v=3z9Rz76hiIg

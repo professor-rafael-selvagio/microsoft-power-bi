@@ -1,0 +1,3 @@
+Conectar arquivos .accdb, .json e .pdf no Power BI, realizar o tratamento dos dados e criar 3 dashboards em páginas diferentes do mesmo arquivo.
+
+O projeto deve incluir títulos e botões de navegação entre as páginas, garantindo organização e boa experiência de uso.

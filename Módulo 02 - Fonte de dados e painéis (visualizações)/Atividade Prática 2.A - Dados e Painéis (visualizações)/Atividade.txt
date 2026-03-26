@@ -1,0 +1,12 @@
+Bem-vindo à atividade de importação de dados e visualização de painéis no Power BI!
+Nesta atividade, você terá a oportunidade de explorar as incríveis capacidades do Power BI para importar dados e criar painéis interativos. 
+
+1) Todas as instruções para realização dessa tarefa estão no documento → Atividade prática 02 - Fontes de dados e painéis
+
+2) Faça o download dos datasets listados a seguir:
+
+• fabricacaoDeCarros.csv
+• Paises.xml
+• vendasDeBolos.xlsx
+
+Siga as instruções do tutorial e faça tudo no Power BI Desktop instalado na sua máquina.

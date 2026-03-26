@@ -1,0 +1,9 @@
+Os painéis no Power BI são visualizações interativas que permitem aos usuários monitorar, analisar e compartilhar informações importantes de maneira visualmente atraente e compreensível. Os painéis são compostos por blocos visuais, como gráficos, tabelas, mapas e medidores, que fornecem insights sobre os dados subjacentes.
+
+Com o Power BI, é possível criar painéis personalizados que agregam informações de diferentes fontes de dados, permitindo uma visualização consolidada e em tempo real dos principais indicadores de desempenho (KPIs) e métricas de negócio. Os painéis podem ser interativos, com recursos como filtros, drill-through (navegação detalhada) e destaque de informações relevantes.
+
+Além disso, os painéis no Power BI são altamente colaborativos. É possível compartilhar os painéis com colegas de trabalho ou público-alvo específico, permitindo que eles visualizem e interajam com as informações apresentadas. Os painéis podem ser acessados por meio do Power BI Desktop, do Power BI Service (nuvem) ou até mesmo incorporados em outras aplicações.
+
+Em resumo, os painéis no Power BI são uma maneira poderosa de visualizar e comunicar dados de forma intuitiva, fornecendo uma visão consolidada das informações para auxiliar na tomada de decisões informadas e compartilhamento de insights com outras pessoas.
+
+https://www.youtube.com/watch?v=RzXo696hsRs&authuser=0
