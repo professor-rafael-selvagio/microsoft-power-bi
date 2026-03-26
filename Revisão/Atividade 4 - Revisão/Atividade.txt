@@ -1,0 +1,22 @@
+Hora de rever o que já aprendemos, para isso vamos importar a base de Dados de Aluno.
+
+Tarefas:
+Limpeza dos dados (Verifique se tem linhas e colunas com null, faça a remoção)
+Verifique o tipo de dado de cada coluna
+Coluna Participação deve ser dividida por 10, ex: Nota 100 deve ficar como Nota 10
+Coluna NotaSemPeso - Crie uma coluna que some as notas de prova e participação e ache a média, ex: (Prova + Participacao) / 2
+Coluna NotaComPeso - Crie uma coluna que gere a média das notas levando em consideração os pesos: Prova tem peso 2 e participação tem peso 1
+Coluna Presença: Crie uma coluna para calcular o número de presenças de cada aluno, sendo 20 o número total de aulas
+Coluna Presença Percentual: Crie uma coluna para calcular seu percentual de presença, lembrando que são 20 aulas e seu número de ausências está na coluna Faltas
+Dashboard - Página 1:
+Crie um cartão com a maior nota final sem peso
+Crie um cartão com a maior nota final com peso
+Crie uma medida com a média de participação da turma e coloque num cartão
+Crie um gráfico de barras que mostre a participação por nome de aluno
+Crie um gráfico de rosca que mostre o percentual de faltas e presenças nas aulas de Power BI
+Adicione o Logotipo do SENAI
+Crie um Título para Dashboard, sugestão "Microsoft Power BI - Revisão"
+Dashboard - Página 2:
+Crie uma dashboard com no mínimo 6 visuais, use a criatividade.
+Adicione o Logotipo do SENAI
+Crie um Título para a Dashboard

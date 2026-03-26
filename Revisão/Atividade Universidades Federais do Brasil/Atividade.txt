@@ -1,0 +1,10 @@
+Utilizando o conector WEB, importe as tabela de dados das Universidades Federais do Brasil, use o link da Wikipedia (https://pt.wikipedia.org/wiki/Lista_de_universidades_federais_do_Brasil).
+
+Faça o tratamento de dados das colunas, modifique o nome da base de dados e limpe os dados da coluna Fundação.
+
+Crie uma base de dados para legenda das regiões do Brasil
+
+Crie uma Dashboard com informações referentes a Universidades por Estado e Região.
+
+Crie uma medida para saber a média do ano de fundação das Universidades.
+Crie uma tabela apenas com as Universidades fundadas a partir dos anos 2000.

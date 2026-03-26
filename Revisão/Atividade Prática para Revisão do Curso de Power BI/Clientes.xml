@@ -1,0 +1,803 @@
+<clientes>
+    <cliente>
+        <codigo>1001</codigo>
+        <nome>João Silva</nome>
+        <rua>Rua das Flores</rua>
+        <cidade>São Carlos</cidade>
+        <pais>Brasil</pais>
+        <cpf>123.456.789-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1002</codigo>
+        <nome>Maria Santos</nome>
+        <rua>Avenida Central</rua>
+        <cidade>Araraquara</cidade>
+        <pais>Brasil</pais>
+        <cpf>987.654.321-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1003</codigo>
+        <nome>Pedro Oliveira</nome>
+        <rua>Praça da Liberdade</rua>
+        <cidade>Ibaté</cidade>
+        <pais>Brasil</pais>
+        <cpf>456.789.123-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1004</codigo>
+        <nome>Ana Souza</nome>
+        <rua>Rua dos Girassóis</rua>
+        <cidade>Ribeirão Bonito</cidade>
+        <pais>Brasil</pais>
+        <cpf>654.321.987-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1005</codigo>
+        <nome>Carlos Lima</nome>
+        <rua>Avenida Paulista</rua>
+        <cidade>Descalvado</cidade>
+        <pais>Brasil</pais>
+        <cpf>321.654.987-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1006</codigo>
+        <nome>André Silva</nome>
+        <rua>Rua das Oliveiras</rua>
+        <cidade>São Carlos</cidade>
+        <pais>Brasil</pais>
+        <cpf>789.123.456-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1007</codigo>
+        <nome>Júlia Fernandes</nome>
+        <rua>Avenida das Flores</rua>
+        <cidade>Araraquara</cidade>
+        <pais>Brasil</pais>
+        <cpf>654.987.321-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1008</codigo>
+        <nome>Ricardo Oliveira</nome>
+        <rua>Praça da Paz</rua>
+        <cidade>Ibaté</cidade>
+        <pais>Brasil</pais>
+        <cpf>852.369.147-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1009</codigo>
+        <nome>Fernanda Souza</nome>
+        <rua>Rua dos Pinheiros</rua>
+        <cidade>Ribeirão Bonito</cidade>
+        <pais>Brasil</pais>
+        <cpf>963.258.741-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1010</codigo>
+        <nome>Gabriel Lima</nome>
+        <rua>Avenida das Rosas</rua>
+        <cidade>Descalvado</cidade>
+        <pais>Brasil</pais>
+        <cpf>741.852.963-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1011</codigo>
+        <nome>Patrícia Oliveira</nome>
+        <rua>Rua das Palmeiras</rua>
+        <cidade>São Carlos</cidade>
+        <pais>Brasil</pais>
+        <cpf>159.357.852-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1012</codigo>
+        <nome>Roberto Santos</nome>
+        <rua>Avenida das Tulipas</rua>
+        <cidade>Araraquara</cidade>
+        <pais>Brasil</pais>
+        <cpf>753.951.456-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1013</codigo>
+        <nome>Mariana Oliveira</nome>
+        <rua>Praça da República</rua>
+        <cidade>Ibaté</cidade>
+        <pais>Brasil</pais>
+        <cpf>357.159.852-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1014</codigo>
+        <nome>Lucas Silva</nome>
+        <rua>Rua das Violetas</rua>
+        <cidade>Ribeirão Bonito</cidade>
+        <pais>Brasil</pais>
+        <cpf>951.753.456-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1015</codigo>
+        <nome>Carla Santos</nome>
+        <rua>Avenida dos Ipês</rua>
+        <cidade>Descalvado</cidade>
+        <pais>Brasil</pais>
+        <cpf>852.753.159-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1016</codigo>
+        <nome>Guilherme Oliveira</nome>
+        <rua>Rua dos Cravos</rua>
+        <cidade>São Carlos</cidade>
+        <pais>Brasil</pais>
+        <cpf>456.159.753-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1017</codigo>
+        <nome>Ana Paula Lima</nome>
+        <rua>Avenida das Margaridas</rua>
+        <cidade>Araraquara</cidade>
+        <pais>Brasil</pais>
+        <cpf>753.852.951-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1018</codigo>
+        <nome>Diego Oliveira</nome>
+        <rua>Praça dos Girassóis</rua>
+        <cidade>Ibaté</cidade>
+        <pais>Brasil</pais>
+        <cpf>159.753.852-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1019</codigo>
+        <nome>Bruna Santos</nome>
+        <rua>Rua das Begônias</rua>
+        <cidade>Ribeirão Bonito</cidade>
+        <pais>Brasil</pais>
+        <cpf>753.456.159-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1020</codigo>
+        <nome>Rafael Oliveira</nome>
+        <rua>Avenida dos Crisântemos</rua>
+        <cidade>Descalvado</cidade>
+        <pais>Brasil</pais>
+        <cpf>159.852.753-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1021</codigo>
+        <nome>Jéssica Lima</nome>
+        <rua>Rua das Azaleias</rua>
+        <cidade>São Carlos</cidade>
+        <pais>Brasil</pais>
+        <cpf>852.456.159-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1022</codigo>
+        <nome>Leonardo Oliveira</nome>
+        <rua>Avenida das Orquídeas</rua>
+        <cidade>Araraquara</cidade>
+        <pais>Brasil</pais>
+        <cpf>456.852.159-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1023</codigo>
+        <nome>Camila Santos</nome>
+        <rua>Praça das Hortênsias</rua>
+        <cidade>Ibaté</cidade>
+        <pais>Brasil</pais>
+        <cpf>159.456.852-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1024</codigo>
+        <nome>Thiago Oliveira</nome>
+        <rua>Rua das Acácias</rua>
+        <cidade>Ribeirão Bonito</cidade>
+        <pais>Brasil</pais>
+        <cpf>852.159.456-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1025</codigo>
+        <nome>Patrícia Lima</nome>
+        <rua>Avenida dos Lírios</rua>
+        <cidade>Descalvado</cidade>
+        <pais>Brasil</pais>
+        <cpf>456.159.852-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1026</codigo>
+        <nome>Marcos Oliveira</nome>
+        <rua>Rua dos Antúrios</rua>
+        <cidade>São Carlos</cidade>
+        <pais>Brasil</pais>
+        <cpf>852.753.456-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1027</codigo>
+        <nome>Sabrina Santos</nome>
+        <rua>Avenida das Magnólias</rua>
+        <cidade>Araraquara</cidade>
+        <pais>Brasil</pais>
+        <cpf>456.852.753-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1028</codigo>
+        <nome>Marcio Oliveira</nome>
+        <rua>Praça das Gérberas</rua>
+        <cidade>Ibaté</cidade>
+        <pais>Brasil</pais>
+        <cpf>753.456.852-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1029</codigo>
+        <nome>Fernanda Lima</nome>
+        <rua>Rua das Bromélias</rua>
+        <cidade>Ribeirão Bonito</cidade>
+        <pais>Brasil</pais>
+        <cpf>852.753.456-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1030</codigo>
+        <nome>Lucas Oliveira</nome>
+        <rua>Avenida das Camélias</rua>
+        <cidade>Descalvado</cidade>
+        <pais>Brasil</pais>
+        <cpf>456.852.753-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1031</codigo>
+        <nome>Luisa Oliveira</nome>
+        <rua>Rua das Azaleias</rua>
+        <cidade>São Carlos</cidade>
+        <pais>Brasil</pais>
+        <cpf>789.123.456-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1032</codigo>
+        <nome>Marcelo Santos</nome>
+        <rua>Avenida das Violetas</rua>
+        <cidade>São Carlos</cidade>
+        <pais>Brasil</pais>
+        <cpf>456.987.321-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1033</codigo>
+        <nome>Ana Clara Lima</nome>
+        <rua>Rua dos Cravos</rua>
+        <cidade>São Carlos</cidade>
+        <pais>Brasil</pais>
+        <cpf>987.654.321-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1034</codigo>
+        <nome>Rodrigo Oliveira</nome>
+        <rua>Avenida das Margaridas</rua>
+        <cidade>São Carlos</cidade>
+        <pais>Brasil</pais>
+        <cpf>321.654.987-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1035</codigo>
+        <nome>Bruna Lima</nome>
+        <rua>Praça dos Girassóis</rua>
+        <cidade>São Carlos</cidade>
+        <pais>Brasil</pais>
+        <cpf>789.321.654-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1036</codigo>
+        <nome>Marcos Oliveira</nome>
+        <rua>Rua das Orquídeas</rua>
+        <cidade>São Carlos</cidade>
+        <pais>Brasil</pais>
+        <cpf>456.789.123-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1037</codigo>
+        <nome>Fernanda Lima</nome>
+        <rua>Avenida das Tulipas</rua>
+        <cidade>São Carlos</cidade>
+        <pais>Brasil</pais>
+        <cpf>123.456.789-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1038</codigo>
+        <nome>Lucas Santos</nome>
+        <rua>Rua dos Lírios</rua>
+        <cidade>São Carlos</cidade>
+        <pais>Brasil</pais>
+        <cpf>987.654.321-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1039</codigo>
+        <nome>Camila Oliveira</nome>
+        <rua>Avenida das Rosas</rua>
+        <cidade>São Carlos</cidade>
+        <pais>Brasil</pais>
+        <cpf>456.789.123-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1040</codigo>
+        <nome>Rafaela Lima</nome>
+        <rua>Rua das Margaridas</rua>
+        <cidade>São Carlos</cidade>
+        <pais>Brasil</pais>
+        <cpf>321.654.987-00</cpf>
+    </cliente>
+    <!-- Mais clientes de São Carlos -->
+    <cliente>
+        <codigo>1041</codigo>
+        <nome>Gabriel Oliveira</nome>
+        <rua>Avenida das Acácias</rua>
+        <cidade>São Carlos</cidade>
+        <pais>Brasil</pais>
+        <cpf>789.123.456-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1042</codigo>
+        <nome>Carolina Santos</nome>
+        <rua>Rua dos Girassóis</rua>
+        <cidade>São Carlos</cidade>
+        <pais>Brasil</pais>
+        <cpf>987.654.321-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1043</codigo>
+        <nome>Rodrigo Lima</nome>
+        <rua>Avenida das Tulipas</rua>
+        <cidade>São Carlos</cidade>
+        <pais>Brasil</pais>
+        <cpf>456.789.123-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1044</codigo>
+        <nome>Mariana Oliveira</nome>
+        <rua>Rua dos Cravos</rua>
+        <cidade>São Carlos</cidade>
+        <pais>Brasil</pais>
+        <cpf>321.654.987-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1045</codigo>
+        <nome>Andréa Santos</nome>
+        <rua>Avenida das Margaridas</rua>
+        <cidade>São Carlos</cidade>
+        <pais>Brasil</pais>
+        <cpf>789.123.456-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1046</codigo>
+        <nome>Marcelo Lima</nome>
+        <rua>Rua dos Lírios</rua>
+        <cidade>São Carlos</cidade>
+        <pais>Brasil</pais>
+        <cpf>987.654.321-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1047</codigo>
+        <nome>Ana Oliveira</nome>
+        <rua>Avenida das Rosas</rua>
+        <cidade>São Carlos</cidade>
+        <pais>Brasil</pais>
+        <cpf>456.789.123-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1048</codigo>
+        <nome>Thiago Santos</nome>
+        <rua>Rua das Acácias</rua>
+        <cidade>São Carlos</cidade>
+        <pais>Brasil</pais>
+        <cpf>321.654.987-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1049</codigo>
+        <nome>Juliana Lima</nome>
+        <rua>Avenida dos Girassóis</rua>
+        <cidade>São Carlos</cidade>
+        <pais>Brasil</pais>
+        <cpf>789.123.456-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1050</codigo>
+        <nome>Lucas Oliveira</nome>
+        <rua>Rua das Tulipas</rua>
+        <cidade>São Carlos</cidade>
+        <pais>Brasil</pais>
+        <cpf>987.654.321-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1051</codigo>
+        <nome>Carlos Oliveira</nome>
+        <rua>Rua das Azaleias</rua>
+        <cidade>São Carlos</cidade>
+        <pais>Brasil</pais>
+        <cpf>123.456.789-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1052</codigo>
+        <nome>Mariana Lima</nome>
+        <rua>Avenida das Violetas</rua>
+        <cidade>São Carlos</cidade>
+        <pais>Brasil</pais>
+        <cpf>987.654.321-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1053</codigo>
+        <nome>Roberto Santos</nome>
+        <rua>Rua das Tulipas</rua>
+        <cidade>São Carlos</cidade>
+        <pais>Brasil</pais>
+        <cpf>456.789.123-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1054</codigo>
+        <nome>Juliana Oliveira</nome>
+        <rua>Rua das Margaridas</rua>
+        <cidade>São Carlos</cidade>
+        <pais>Brasil</pais>
+        <cpf>789.123.456-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1055</codigo>
+        <nome>Rafaela Lima</nome>
+        <rua>Rua dos Cravos</rua>
+        <cidade>São Carlos</cidade>
+        <pais>Brasil</pais>
+        <cpf>321.654.987-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1056</codigo>
+        <nome>Lucas Santos</nome>
+        <rua>Avenida das Tulipas</rua>
+        <cidade>São Carlos</cidade>
+        <pais>Brasil</pais>
+        <cpf>987.321.654-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1057</codigo>
+        <nome>Ana Oliveira</nome>
+        <rua>Rua das Orquídeas</rua>
+        <cidade>São Carlos</cidade>
+        <pais>Brasil</pais>
+        <cpf>456.789.123-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1058</codigo>
+        <nome>Pedro Lima</nome>
+        <rua>Avenida dos Lírios</rua>
+        <cidade>São Carlos</cidade>
+        <pais>Brasil</pais>
+        <cpf>789.456.123-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1059</codigo>
+        <nome>Fernanda Santos</nome>
+        <rua>Rua das Violetas</rua>
+        <cidade>São Carlos</cidade>
+        <pais>Brasil</pais>
+        <cpf>654.789.321-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1060</codigo>
+        <nome>Gabriel Oliveira</nome>
+        <rua>Avenida das Rosas</rua>
+        <cidade>São Carlos</cidade>
+        <pais>Brasil</pais>
+        <cpf>789.321.654-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1061</codigo>
+        <nome>Júlia Lima</nome>
+        <rua>Rua das Begônias</rua>
+        <cidade>São Carlos</cidade>
+        <pais>Brasil</pais>
+        <cpf>321.654.987-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1062</codigo>
+        <nome>Rodrigo Santos</nome>
+        <rua>Avenida dos Cravos</rua>
+        <cidade>São Carlos</cidade>
+        <pais>Brasil</pais>
+        <cpf>987.654.321-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1063</codigo>
+        <nome>Camila Oliveira</nome>
+        <rua>Rua das Margaridas</rua>
+        <cidade>São Carlos</cidade>
+        <pais>Brasil</pais>
+        <cpf>456.789.123-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1064</codigo>
+        <nome>André Lima</nome>
+        <rua>Avenida das Orquídeas</rua>
+        <cidade>São Carlos</cidade>
+        <pais>Brasil</pais>
+        <cpf>789.123.456-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1065</codigo>
+        <nome>Carla Santos</nome>
+        <rua>Rua dos Girassóis</rua>
+        <cidade>São Carlos</cidade>
+        <pais>Brasil</pais>
+        <cpf>321.654.987-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1066</codigo>
+        <nome>Leonardo Oliveira</nome>
+        <rua>Avenida dos Lírios</rua>
+        <cidade>São Carlos</cidade>
+        <pais>Brasil</pais>
+        <cpf>987.321.654-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1067</codigo>
+        <nome>Ana Paula Lima</nome>
+        <rua>Rua das Violetas</rua>
+        <cidade>São Carlos</cidade>
+        <pais>Brasil</pais>
+        <cpf>654.789.321-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1068</codigo>
+        <nome>Diego Santos</nome>
+        <rua>Avenida das Rosas</rua>
+        <cidade>São Carlos</cidade>
+        <pais>Brasil</pais>
+        <cpf>789.321.654-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1069</codigo>
+        <nome>Fernanda Oliveira</nome>
+        <rua>Rua das Begônias</rua>
+        <cidade>São Carlos</cidade>
+        <pais>Brasil</pais>
+        <cpf>321.654.987-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1070</codigo>
+        <nome>Rafael Santos</nome>
+        <rua>Avenida dos Cravos</rua>
+        <cidade>São Carlos</cidade>
+        <pais>Brasil</pais>
+        <cpf>987.654.321-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1071</codigo>
+        <nome>Lucas Oliveira</nome>
+        <rua>Rua das Azaleias</rua>
+        <cidade>São Carlos</cidade>
+        <pais>Brasil</pais>
+        <cpf>123.456.789-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1072</codigo>
+        <nome>Mariana Lima</nome>
+        <rua>Avenida das Violetas</rua>
+        <cidade>São Carlos</cidade>
+        <pais>Brasil</pais>
+        <cpf>987.654.321-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1073</codigo>
+        <nome>Roberto Santos</nome>
+        <rua>Rua das Tulipas</rua>
+        <cidade>São Carlos</cidade>
+        <pais>Brasil</pais>
+        <cpf>456.789.123-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1074</codigo>
+        <nome>Juliana Oliveira</nome>
+        <rua>Rua das Margaridas</rua>
+        <cidade>São Carlos</cidade>
+        <pais>Brasil</pais>
+        <cpf>789.123.456-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1075</codigo>
+        <nome>Rafaela Lima</nome>
+        <rua>Rua dos Cravos</rua>
+        <cidade>São Carlos</cidade>
+        <pais>Brasil</pais>
+        <cpf>321.654.987-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1076</codigo>
+        <nome>Lucas Santos</nome>
+        <rua>Avenida das Tulipas</rua>
+        <cidade>São Carlos</cidade>
+        <pais>Brasil</pais>
+        <cpf>987.321.654-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1077</codigo>
+        <nome>Ana Oliveira</nome>
+        <rua>Rua das Orquídeas</rua>
+        <cidade>São Carlos</cidade>
+        <pais>Brasil</pais>
+        <cpf>456.789.123-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1078</codigo>
+        <nome>Pedro Lima</nome>
+        <rua>Avenida dos Lírios</rua>
+        <cidade>São Carlos</cidade>
+        <pais>Brasil</pais>
+        <cpf>789.456.123-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1079</codigo>
+        <nome>Fernanda Santos</nome>
+        <rua>Rua das Violetas</rua>
+        <cidade>São Carlos</cidade>
+        <pais>Brasil</pais>
+        <cpf>654.789.321-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1080</codigo>
+        <nome>Gabriel Oliveira</nome>
+        <rua>Avenida das Rosas</rua>
+        <cidade>São Carlos</cidade>
+        <pais>Brasil</pais>
+        <cpf>789.321.654-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1081</codigo>
+        <nome>Larissa Oliveira</nome>
+        <rua>Rua das Begônias</rua>
+        <cidade>Ibaté</cidade>
+        <pais>Brasil</pais>
+        <cpf>123.456.789-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1082</codigo>
+        <nome>Leonardo Lima</nome>
+        <rua>Avenida dos Cravos</rua>
+        <cidade>Ibaté</cidade>
+        <pais>Brasil</pais>
+        <cpf>987.654.321-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1083</codigo>
+        <nome>Carla Santos</nome>
+        <rua>Rua das Margaridas</rua>
+        <cidade>Ibaté</cidade>
+        <pais>Brasil</pais>
+        <cpf>456.789.123-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1084</codigo>
+        <nome>Rodrigo Oliveira</nome>
+        <rua>Avenida das Orquídeas</rua>
+        <cidade>Ibaté</cidade>
+        <pais>Brasil</pais>
+        <cpf>789.123.456-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1085</codigo>
+        <nome>Ana Lima</nome>
+        <rua>Rua dos Girassóis</rua>
+        <cidade>Ibaté</cidade>
+        <pais>Brasil</pais>
+        <cpf>321.654.987-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1086</codigo>
+        <nome>Thiago Santos</nome>
+        <rua>Avenida das Rosas</rua>
+        <cidade>Ibaté</cidade>
+        <pais>Brasil</pais>
+        <cpf>987.321.654-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1087</codigo>
+        <nome>Laura Oliveira</nome>
+        <rua>Rua das Tulipas</rua>
+        <cidade>Ibaté</cidade>
+        <pais>Brasil</pais>
+        <cpf>456.789.123-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1088</codigo>
+        <nome>Gustavo Lima</nome>
+        <rua>Avenida das Violetas</rua>
+        <cidade>Ibaté</cidade>
+        <pais>Brasil</pais>
+        <cpf>789.123.456-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1089</codigo>
+        <nome>Juliana Santos</nome>
+        <rua>Rua das Acácias</rua>
+        <cidade>Ibaté</cidade>
+        <pais>Brasil</pais>
+        <cpf>321.654.987-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1090</codigo>
+        <nome>Renato Oliveira</nome>
+        <rua>Avenida dos Crisântemos</rua>
+        <cidade>Ibaté</cidade>
+        <pais>Brasil</pais>
+        <cpf>987.321.654-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1091</codigo>
+        <nome>Isabela Lima</nome>
+        <rua>Rua das Begônias</rua>
+        <cidade>Araraquara</cidade>
+        <pais>Brasil</pais>
+        <cpf>123.456.789-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1092</codigo>
+        <nome>Guilherme Santos</nome>
+        <rua>Avenida dos Cravos</rua>
+        <cidade>Araraquara</cidade>
+        <pais>Brasil</pais>
+        <cpf>987.654.321-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1093</codigo>
+        <nome>Maria Oliveira</nome>
+        <rua>Rua das Margaridas</rua>
+        <cidade>Araraquara</cidade>
+        <pais>Brasil</pais>
+        <cpf>456.789.123-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1094</codigo>
+        <nome>Felipe Lima</nome>
+        <rua>Avenida das Orquídeas</rua>
+        <cidade>Araraquara</cidade>
+        <pais>Brasil</pais>
+        <cpf>789.123.456-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1095</codigo>
+        <nome>Vanessa Santos</nome>
+        <rua>Rua dos Girassóis</rua>
+        <cidade>Araraquara</cidade>
+        <pais>Brasil</pais>
+        <cpf>321.654.987-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1096</codigo>
+        <nome>Pedro Oliveira</nome>
+        <rua>Avenida das Rosas</rua>
+        <cidade>Araraquara</cidade>
+        <pais>Brasil</pais>
+        <cpf>987.321.654-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1097</codigo>
+        <nome>Carolina Lima</nome>
+        <rua>Rua das Tulipas</rua>
+        <cidade>Araraquara</cidade>
+        <pais>Brasil</pais>
+        <cpf>456.789.123-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1098</codigo>
+        <nome>Ricardo Santos</nome>
+        <rua>Avenida das Violetas</rua>
+        <cidade>Araraquara</cidade>
+        <pais>Brasil</pais>
+        <cpf>789.123.456-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1099</codigo>
+        <nome>Leticia Oliveira</nome>
+        <rua>Rua das Acácias</rua>
+        <cidade>Araraquara</cidade>
+        <pais>Brasil</pais>
+        <cpf>321.654.987-00</cpf>
+    </cliente>
+    <cliente>
+        <codigo>1100</codigo>
+        <nome>Marcos Lima</nome>
+        <rua>Avenida dos Crisântemos</rua>
+        <cidade>Araraquara</cidade>
+        <pais>Brasil</pais>
+        <cpf>987.321.654-00</cpf>
+    </cliente>
+</clientes>
