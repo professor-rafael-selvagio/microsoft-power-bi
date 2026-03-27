@@ -12,3 +12,11 @@ Página 1
 Página 2
 Crie uma dashboard focada em exibir dados dos vendedores.
 Crie uma nova tabela usando a função TOPN, para classificar os melhores vendedores, levando em consideração: Status da Venda diferente de Cancelada.
+
+Página 3
+Crie uma dashboard  focada em vendas por região, exibindo as vendas Concluídas, Em Andamento e Canceladas.
+
+
+Adicione botões de navegação em todas as páginas
+Adicione o Logo do SENAI em todas as páginas
+Adicione um título em todas as páginas
