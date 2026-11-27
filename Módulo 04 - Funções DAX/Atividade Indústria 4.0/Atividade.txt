@@ -1,5 +1,9 @@
-Conecte a base de dados no Microsoft Power BI e gere uma dashboard igual ao arquivo "Industria4-SistemaSupervisionadoNova.pdf".
+Industria 4.0 - Sistema Supervisionado
 
-Base de Dados - https://docs.google.com/spreadsheets/d/11pW36FRa8d9jQ8q8XpOYdp4VWiwYnZ9Ha4jIDOb0L1U/edit?usp=sharing
+Base de Dados (Compartilhada)- https://docs.google.com/spreadsheets/d/11pW36FRa8d9jQ8q8XpOYdp4VWiwYnZ9Ha4jIDOb0L1U/edit?usp=sharing
+Base de Dados (Publicada) - https://docs.google.com/spreadsheets/d/e/2PACX-1vRV6VOzV9bhUcBGKJ10XjU-gzENytlNu1UOm3lyuVVI0jjIJdroxlpiucjwn8Kh-YgYdSGjRXW9JC6Z/pub?output=xlsx
 
-Dashboard - https://app.powerbi.com/view?r=eyJrIjoiODdiMDg4MzQtNmZiZC00ZTVjLWE4MGItZDUzMjU0ODZiMWIyIiwidCI6IjQxNDhhNmRlLTBkZDEtNGQwNC1hNGM1LTc4ZTM3NGU0ZjZkNiIsImMiOjR9
+Dashboard Antiga (pública) - 
+https://app.powerbi.com/view?r=eyJrIjoiODdiMDg4MzQtNmZiZC00ZTVjLWE4MGItZDUzMjU0ODZiMWIyIiwidCI6IjQxNDhhNmRlLTBkZDEtNGQwNC1hNGM1LTc4ZTM3NGU0ZjZkNiIsImMiOjR9
+
+Dashboard Nova - https://app.powerbi.com/groups/me/reports/582c6289-6dc1-44c5-97fc-3f395b976315/3939b9df4ded76a77697?experience=power-bi
